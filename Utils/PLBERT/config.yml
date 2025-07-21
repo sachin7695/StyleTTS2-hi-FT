@@ -1,18 +1,18 @@
 log_dir: "Checkpoint"
 mixed_precision: "fp16"
-data_folder: "wikipedia_20220301.en.processed"
-batch_size: 192
-save_interval: 5000
-log_interval: 10
+data_folder: "indic_voices-r.hi.word"
+batch_size: 128
+save_interval: 250
+log_interval: 100
 num_process: 1 # number of GPUs
-num_steps: 1000000
+num_steps: 15000
 
 dataset_params:
-    tokenizer: "transfo-xl-wt103"
+    tokenizer: "bert-base-uncased"
     token_separator: " " # token used for phoneme separator (space)
     token_mask: "M" # token used for phoneme mask (M)
     word_separator: 3039 # token used for word separator (<formula>)
-    token_maps: "token_maps.pkl" # token map path
+    token_maps: "/home/user/voice/StyleTTS2/Utils/PLBERT/token_maps.pkl" # token map path /home/user/voice/PL-BERT/token_maps_bert_base.pkl
     
     max_mel_length: 512 # max phoneme length
     

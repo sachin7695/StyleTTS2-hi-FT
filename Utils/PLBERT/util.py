@@ -5,6 +5,23 @@ from transformers import AlbertConfig, AlbertModel
 
 class CustomAlbert(AlbertModel):
     def forward(self, *args, **kwargs):
+        # Handle inputs that are too long (exceeding 512 tokens)
+        if len(args) > 0 and isinstance(args[0], torch.Tensor) and args[0].size(1) > 512:
+            args = list(args)
+            args[0] = args[0][:, :512]
+            args = tuple(args)
+        
+        # Handle attention mask if provided as positional argument
+        if len(args) > 1 and isinstance(args[1], torch.Tensor) and args[1].size(1) > 512:
+            args = list(args)
+            args[1] = args[1][:, :512]
+            args = tuple(args)
+            
+        # Handle inputs passed as keyword arguments
+        if 'input_ids' in kwargs and kwargs['input_ids'].size(1) > 512:
+            kwargs['input_ids'] = kwargs['input_ids'][:, :512]
+        if 'attention_mask' in kwargs and kwargs['attention_mask'].size(1) > 512:
+            kwargs['attention_mask'] = kwargs['attention_mask'][:, :512]
         # Call the original forward method
         outputs = super().forward(*args, **kwargs)
 
@@ -36,7 +53,12 @@ def load_plbert(log_dir):
         if name.startswith('encoder.'):
             name = name[8:] # remove `encoder.`
             new_state_dict[name] = v
-    del new_state_dict["embeddings.position_ids"]
+    # Replace the problematic line:
+    # del new_state_dict["embeddings.position_ids"]
+    
+    # With this safe check:
+    if "embeddings.position_ids" in new_state_dict:
+        del new_state_dict["embeddings.position_ids"]
     bert.load_state_dict(new_state_dict, strict=False)
     
     return bert

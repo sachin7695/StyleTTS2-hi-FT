@@ -1,1 +1,13 @@
-__pycache__
+__pycache__/
+Models/indic_voices/epoch_2nd_00049.pth
+Models/Emotions/epoch_2nd_00049.pth
+Models/telecmi
+Models/epochs_2nd_00020.pth
+Utils/__pycache__
+Utils/ASR/epoch_00050.pth
+Utils/ASR/epoch_00080.pth
+Utils/ASR/epoch_00100.pth
+Utils/step_2000.t7
+Utils/step_8100.t7
+Utils/plbert-telecmi
+requirements.txt

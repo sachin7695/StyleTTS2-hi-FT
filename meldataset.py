@@ -21,9 +21,9 @@ logger.setLevel(logging.DEBUG)
 import pandas as pd
 
 _pad = "$"
-_punctuation = ';:,.!?¡¿—…"«»“” '
+_punctuation = ';:,.!?¡¿—…"“” '
 _letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz'
-_letters_ipa = "ɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓↑→↗↘'̩'ᵻ"
+_letters_ipa = "õũɑɐɒæɓʙβɔɕçɗɖðʤəɘɚɛɜɝɞɟʄɡɠɢʛɦɧħɥʜɨɪʝɭɬɫɮʟɱɯɰŋɳɲɴøɵɸθœɶʘɹɺɾɻʀʁɽʂʃʈʧʉʊʋⱱʌɣɤʍχʎʏʑʐʒʔʡʕʢǀǁǂǃˈˌːˑʼʴʰʱʲʷˠˤ˞↓1ãĩẽ'̩'ᵻ"
 
 # Export all symbols:
 symbols = [_pad] + list(_punctuation) + list(_letters) + list(_letters_ipa)
@@ -35,6 +35,7 @@ for i in range(len((symbols))):
 class TextCleaner:
     def __init__(self, dummy=None):
         self.word_index_dictionary = dicts
+        print(len(dicts))
     def __call__(self, text):
         indexes = []
         for char in text:
@@ -43,6 +44,7 @@ class TextCleaner:
             except KeyError:
                 print(text)
         return indexes
+
 
 np.random.seed(1)
 random.seed(1)
@@ -128,9 +130,20 @@ class FilePathDataset(torch.utils.data.Dataset):
             ps = self.ptexts[rand_idx]
             
             text = self.text_cleaner(ps)
+            text = text[:512-2]
+            # pad_len = 512 - len(text)
+            # if pad_len < 0:
+            #     # Truncate to fit
+            #     text = text[:512 - 2]
+            #     text = [0] + text + [2] #[PAD] = 1 content [stop] = 2
+            # else:
+            #     # Pad to fit
+            #     text += [0] * pad_len
+            #     text = text[:512 - 2]
+            #     text = [0] + text + [2] #[PAD] = 0 content [stop] = 2
             text.insert(0, 0)
             text.append(0)
-
+    
             ref_text = torch.LongTensor(text)
         
         return speaker_id, acoustic_feature, text_tensor, ref_text, ref_mel_tensor, ref_label, path, wave
@@ -143,15 +156,34 @@ class FilePathDataset(torch.utils.data.Dataset):
             wave = wave[:, 0].squeeze()
         if sr != 24000:
             wave = librosa.resample(wave, orig_sr=sr, target_sr=24000)
-            print(wave_path, sr)
+            # print(wave_path, sr)
+
+        # # --- Dynamically compute 100 ms of silence at end only ---
+        # silence_duration_s = 0.1                   # 100 ms
+        # silence_samples = int(silence_duration_s * self.sr)
+        # silence = np.zeros(silence_samples, dtype=wave.dtype)
+        # wave = np.concatenate([wave, silence], axis=0)
+        # # --------------------------------------------------------
             
-        wave = np.concatenate([np.zeros([5000]), wave, np.zeros([5000])], axis=0)
+        wave = np.concatenate([np.zeros([5000]), wave, np.zeros([5000])], axis=0) #this is hard coded
         
         text = self.text_cleaner(text)
         
-        text.insert(0, 0)
-        text.append(0)
-        
+        # Truncate to MAX_TEXT_LEN - 2 to leave space for start/end tokens
+        # pad_len = 512 - len(text)
+        # if pad_len < 0:
+        #     # Truncate to fit
+        #     text = text[:512 - 2]
+        #     text = [0] + text + [2] #start = 1 content [stop] = 2
+        # else:
+        #     # Pad to fit
+        #     text += [0] * pad_len
+        #     text = text[:512 - 2]
+        #     text = [0] + text + [2] #start = 1 content [stop] = 2
+
+        text = text[:512-2]
+        text.insert(0, 0) #start padding
+        text.append(0) # end padding is not needed we are using stop token to stop the generation
         text = torch.LongTensor(text)
 
         return wave, text, speaker_id
@@ -252,4 +284,3 @@ def build_dataloader(path_list,
                              pin_memory=(device != 'cpu'))
 
     return data_loader
-

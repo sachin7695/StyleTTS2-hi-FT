@@ -1,11 +1,11 @@
 log_dir: "logs/20201006"
-save_freq: 5
+save_freq: 20
 device: "cuda"
-epochs: 180
-batch_size: 64
+epochs: 200
+batch_size: 192
 pretrained_model: ""
-train_data: "ASRDataset/train_list.txt"
-val_data: "ASRDataset/val_list.txt"
+train_data: "/home/user/voice/StyleTTS/Data/Train_tts.txt"
+val_data: "/home/user/voice/StyleTTS/Data/Val_tts.txt"
 
 dataset_params:
   data_augmentation: false

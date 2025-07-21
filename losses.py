@@ -251,3 +251,189 @@ class WavLMLoss(torch.nn.Module):
         y_d_rs = self.wd(y_embeddings)
         
         return y_d_rs
+
+# class WhisperEncoderOnly(WhisperPreTrainedModel):
+#     def __init__(self, config: WhisperConfig):
+#         super().__init__(config)
+#         self.encoder = WhisperEncoder(config)
+
+#     def forward(self, input_features, attention_mask=None):
+#         return self.encoder(input_features, attention_mask)
+
+
+# class WavLMLoss(torch.nn.Module):
+#     def __init__(self, model, wd, model_sr, slm_sr=16000):
+#         super(WavLMLoss, self).__init__()
+    
+#         config = WhisperConfig.from_pretrained("Respair/Whisper_Large_v2_Encoder_Block")
+
+#         # this will load the full model and keep only the encoder
+#         full_model = WhisperEncoderOnly.from_pretrained("openai/whisper-large-v2", config=config, device_map='auto',torch_dtype=torch.bfloat16)
+#         model = WhisperEncoderOnly(config)
+#         model.encoder.load_state_dict(full_model.encoder.state_dict())
+#         del full_model
+
+        
+#         self.wavlm = model.to(torch.bfloat16)
+#         self.wd = wd
+#         self.resample = torchaudio.transforms.Resample(model_sr, slm_sr)
+
+#     def forward(self, wav,  y_rec, generator=False, discriminator=False, discriminator_forward=False):
+        
+#         if generator:
+#             y_rec = y_rec.squeeze(1)
+            
+
+#             y_rec = whisper.pad_or_trim(y_rec)
+#             y_rec = whisper.log_mel_spectrogram(y_rec)
+
+#             with torch.no_grad():
+#                 y_rec_embeddings = self.wavlm.encoder(y_rec.to(torch.bfloat16), output_hidden_states=True).hidden_states
+#             y_rec_embeddings = torch.stack(y_rec_embeddings, dim=1).transpose(-1, -2).flatten(start_dim=1, end_dim=2)
+#             y_df_hat_g = self.wd(y_rec_embeddings.to(torch.float32))
+#             loss_gen = torch.mean((1-y_df_hat_g)**2)
+            
+#             return loss_gen.to(torch.float32)
+        
+#         elif discriminator:
+            
+#             wav = wav.squeeze(1)
+#             y_rec = y_rec.squeeze(1)
+
+#             wav = whisper.pad_or_trim(wav)
+#             wav = whisper.log_mel_spectrogram(wav)
+
+#             y_rec = whisper.pad_or_trim(y_rec)
+#             y_rec = whisper.log_mel_spectrogram(y_rec)
+
+#             with torch.no_grad():
+#                 wav_embeddings = self.wavlm.encoder(wav.to(torch.bfloat16), output_hidden_states=True).hidden_states
+#                 y_rec_embeddings = self.wavlm.encoder(y_rec.to(torch.bfloat16), output_hidden_states=True).hidden_states
+
+#                 y_embeddings = torch.stack(wav_embeddings, dim=1).transpose(-1, -2).flatten(start_dim=1, end_dim=2)
+#                 y_rec_embeddings = torch.stack(y_rec_embeddings, dim=1).transpose(-1, -2).flatten(start_dim=1, end_dim=2)
+
+#             y_d_rs = self.wd(y_embeddings.to(torch.float32))
+#             y_d_gs = self.wd(y_rec_embeddings.to(torch.float32))
+            
+#             y_df_hat_r, y_df_hat_g = y_d_rs, y_d_gs
+            
+#             r_loss = torch.mean((1-y_df_hat_r)**2)
+#             g_loss = torch.mean((y_df_hat_g)**2)
+            
+#             loss_disc_f = r_loss + g_loss
+                            
+#             return loss_disc_f.mean().to(torch.float32)
+        
+        
+        
+#         elif discriminator_forward:
+#             # Squeeze the channel dimension if it's unnecessary
+#             wav = wav.squeeze(1) # Adjust this line if the channel dimension is not at dim=1
+
+
+#             with torch.no_grad():
+                
+#                 wav_16 = self.resample(wav)
+#                 wav_16 = whisper.pad_or_trim(wav_16)
+#                 wav_16 = whisper.log_mel_spectrogram(wav_16)
+                
+#                 wav_embeddings = self.wavlm.encoder(wav_16.to(torch.bfloat16) , output_hidden_states=True).hidden_states
+#                 y_embeddings = torch.stack(wav_embeddings, dim=1).transpose(-1, -2).flatten(start_dim=1, end_dim=2)
+
+#             y_d_rs = self.wd(y_embeddings.to(torch.float32))
+            
+#             return y_d_rs
+        
+#         else:
+        
+#             wav = wav.squeeze(1)
+#             y_rec = y_rec.squeeze(1)
+
+#             wav = whisper.pad_or_trim(wav)
+#             wav = whisper.log_mel_spectrogram(wav)
+
+#             y_rec = whisper.pad_or_trim(y_rec)
+#             y_rec = whisper.log_mel_spectrogram(y_rec)
+
+#             with torch.no_grad():
+#                 wav_embeddings = self.wavlm.encoder(wav.to(torch.bfloat16), output_hidden_states=True).hidden_states
+        
+#                 y_rec_embeddings = self.wavlm.encoder(y_rec.to(torch.bfloat16), output_hidden_states=True).hidden_states
+
+
+#             floss = 0
+#             for er, eg in zip([e.to(torch.float32) for e in wav_embeddings], [e.to(torch.float32) for e in y_rec_embeddings]):
+#                 floss += torch.mean(torch.abs(er - eg))
+            
+#             return floss.mean()
+
+
+
+#     def generator(self, y_rec):
+        
+#         y_rec = y_rec.squeeze(1)
+        
+
+#         y_rec = whisper.pad_or_trim(y_rec)
+#         y_rec = whisper.log_mel_spectrogram(y_rec)
+
+#         with torch.no_grad():
+#             y_rec_embeddings = self.wavlm.encoder(y_rec.to(torch.bfloat16), output_hidden_states=True).hidden_states
+#         y_rec_embeddings = torch.stack(y_rec_embeddings, dim=1).transpose(-1, -2).flatten(start_dim=1, end_dim=2)
+#         y_df_hat_g = self.wd(y_rec_embeddings.to(torch.float32))
+#         loss_gen = torch.mean((1-y_df_hat_g)**2)
+        
+#         return loss_gen.to(torch.float32)
+
+#     def discriminator(self, wav, y_rec):
+        
+#         wav = wav.squeeze(1)
+#         y_rec = y_rec.squeeze(1)
+
+#         wav = whisper.pad_or_trim(wav)
+#         wav = whisper.log_mel_spectrogram(wav)
+
+#         y_rec = whisper.pad_or_trim(y_rec)
+#         y_rec = whisper.log_mel_spectrogram(y_rec)
+
+#         with torch.no_grad():
+#             wav_embeddings = self.wavlm.encoder(wav.to(torch.bfloat16), output_hidden_states=True).hidden_states
+#             y_rec_embeddings = self.wavlm.encoder(y_rec.to(torch.bfloat16), output_hidden_states=True).hidden_states
+
+#             y_embeddings = torch.stack(wav_embeddings, dim=1).transpose(-1, -2).flatten(start_dim=1, end_dim=2)
+#             y_rec_embeddings = torch.stack(y_rec_embeddings, dim=1).transpose(-1, -2).flatten(start_dim=1, end_dim=2)
+
+#         y_d_rs = self.wd(y_embeddings.to(torch.float32))
+#         y_d_gs = self.wd(y_rec_embeddings.to(torch.float32))
+        
+#         y_df_hat_r, y_df_hat_g = y_d_rs, y_d_gs
+        
+#         r_loss = torch.mean((1-y_df_hat_r)**2)
+#         g_loss = torch.mean((y_df_hat_g)**2)
+        
+#         loss_disc_f = r_loss + g_loss
+                        
+#         return loss_disc_f.mean().to(torch.float32)
+    
+    
+
+
+#     def discriminator_forward(self, wav):
+#         # Squeeze the channel dimension if it's unnecessary
+#         wav = wav.squeeze(1) # Adjust this line if the channel dimension is not at dim=1
+
+
+#         with torch.no_grad():
+            
+#             wav_16 = self.resample(wav)
+#             wav_16 = whisper.pad_or_trim(wav_16)
+#             wav_16 = whisper.log_mel_spectrogram(wav_16)
+            
+#             wav_embeddings = self.wavlm.encoder(wav_16.to(torch.bfloat16) , output_hidden_states=True).hidden_states
+#             y_embeddings = torch.stack(wav_embeddings, dim=1).transpose(-1, -2).flatten(start_dim=1, end_dim=2)
+
+#         y_d_rs = self.wd(y_embeddings.to(torch.float32))
+        
+#         return y_d_rs
+    

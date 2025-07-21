@@ -1,0 +1,428 @@
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-1.wav|lˈɔŋ tɹˈɪp tə flˈɔːɹɪdə dˈo‍ʊnt lˈa‍ɪk ɹˈa‍ɪdɪŋ ɪn kˈɑː‍ɹz|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-160.wav|ðɛ‍ɹwˌʌz ɐ wˈɑːsp ɪn ma‍ɪ ɹˈuːm ðɪs mˈɔː‍ɹnɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-159.wav|kˈuːl pˈɜːfɛkt ɐnˈʌðɚ ʃᵻkˈɑːɡɔ‍ɪt ɡɑːt tə lˈʌv ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-105.wav|θɹˈiː jˈɪ‍ɹz ʌv ɡˌo‍ʊɪŋ ˈa‍ʊt ˈɛvɹi dˈe‍ɪ ˈɛvɹi dˈe‍ɪ ænd lˈʊkɪŋ fɚɹə d‍ʒˈɑːb ænd bˌiːɪŋ kˈɑːnstəntli dᵻnˈa‍ɪd ˈɛvɹɪwˌɛɹ a‍ɪ ɡˈo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-315.wav|ˈa‍ɪ æm bˈɑːðɚd ba‍ɪ ma‍ɪ nˈe‍ɪbɚz lˈa‍ʊd pˈa‍ʊɚ tˈuːlz nˈɛkst dˈoː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-191.wav|hˌævɪŋ ðɪs nˈuː bˈe‍ɪbi pˈʌpi ɚɹˈa‍ʊnd ɹᵻmˈa‍ɪndz mˌiː ʌv hˌa‍ʊ fɹˈæd‍ʒə‍l lˈa‍ɪf ɪz a‍ɪ ɹᵻmˈɛmbɚ wɛn ma‍ɪ ˈʌðɚɹ ˈænɪmə‍lz hˌuː hæv pˈæst wɜː bˈe‍ɪbiz sˈɜːkə‍l ʌv lˈa‍ɪf|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-19.wav|wˌʌts jʊ‍ɹ fˈe‍ɪvɹɪt tˈa‍ɪp ʌv mˈɛksɪkən fˈuːd mˈa‍ɪn ɪz ðə bɜːɹˈiːɾo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-279.wav|a‍ɪ ˌæbsəlˈuːtli kʊd nˌɑːt wˈe‍ɪt tə ɡˌo‍ʊ ˌɔn ma‍ɪ kɹˈuːz ðɪs sˈʌmɚ a‍ɪ hæd sˌo‍ʊ mˈɛni fˈʌn æktˈɪvᵻɾiz plˈænd ðæt a‍ɪ d‍ʒˈʌst wˈɔntᵻd tə d‍ʒˈʌmp ˈa‍ʊt ˌɪntʊ ðɪ ˈo‍ʊʃən ænd swˈɪm tə ma‍ɪ dˌɛstɪnˈe‍ɪʃənz d‍ʒˈʌst tə ɡɛt stˈɑː‍ɹɾᵻd|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-363.wav|ˌo‍ʊkˈe‍ɪ ænd hˌa‍ʊ dˈʌz ðæt ɐplˈa‍ɪ ɪn fˈʊtbɔːl|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-27.wav|ɐ fɹˈɛnd ɡˈɪvɪŋ mˌiː ɐn ɛkspˈɛnsɪv kɹˈɪsməs ɡˈɪft wˌa‍ɪl a‍ɪ ɡˈe‍ɪv hɜːɹ ɐ t‍ʃˈiːp wˌʌn|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-103.wav|a‍ɪ wʌz skˈɛ‍ɹd dɹˈa‍ɪvɪŋ hˈo‍ʊm lˈæst nˈa‍ɪt a‍ɪ fˈɛlt lˈa‍ɪk ɐ kˈɑː‍ɹ wʌz fˈɑːlo‍ʊɪŋ mˌiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-281.wav|a‍ɪ ɐdmˈa‍ɪ‍ɚ ma‍ɪ mˈɑːm fɔː‍ɹ lˈiːvɪŋ hɜː d‍ʒˈɑːb ʃiː hˈæzbiːn æt fɚɹə lˈɔŋ tˈa‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-18.wav|ɐ fjˈuː mˈʌnθs bˈæk a‍ɪ mˌe‍ɪk sˈɪɹiəs mɪstˈe‍ɪk dˈʊ‍ɹɹɪŋ ɐn ɛkspˈɛɹɪmənt θˈæŋkfəli ɪt dˈɪdnt ˈækt‍ʃuːə‍li dᵻstɹˈɔ‍ɪ ðə wˈɜːk a‍ɪɐm stˈɪl sˈuːpɚɹ ɛmbˈæɹəst θˈɪŋkɪŋ ɐbˈa‍ʊt ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-328.wav|a‍ɪ wɛnt tə ðə sˈuːpɚmˌɑː‍ɹkɪt ænd ˈa‍ɪ wʌz ɡˌɛɾɪŋ ˈɔːl ʌv ma‍ɪ stˈʌf ˌa‍ʊɾəv ma‍ɪ kˈɑː‍ɹt ðe‍ɪ klˈo‍ʊzd ma‍ɪ lˈa‍ɪn a‍ɪ hædtə pˌʊt ma‍ɪ stˈʌf bˈæk ɪn ma‍ɪ kˈɑː‍ɹt ænd t‍ʃˈe‍ɪnd‍ʒ lˈa‍ɪnz|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-262.wav|dˌuːɪŋ pˈʊ‍ɹli ˌɔn ɐn ɛɡzˈæm ðæt a‍ɪ θˈɔːt a‍ɪ ʃˌʊd dˈuː wˈɛl|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-296.wav|ðɪ ˈʌðɚ dˈe‍ɪ a‍ɪ sˈiːn sˈʌmwʌn hæd bɹˈo‍ʊkən ˌɪntʊ ma‍ɪ kˈɑː‍ɹ ðe‍ɪ dˈɪdnt tˈe‍ɪk ˈɛnɪθˌɪŋ a‍ɪm nˌɑːt ʃˈʊ‍ɹ ɪf a‍ɪ ʃˌʊd fˈiːl vˈa‍ɪ‍əle‍ɪɾᵻd ɔː‍ɹ bˈæd bɪkˈʌz a‍ɪ hæd nˈʌθɪŋ wˈɜːθ stˈiːlɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-63.wav|ma‍ɪ tˈɜːɾə‍l ɹˈæn ɐwˈe‍ɪ jˈɛstɚdˌe‍ɪ a‍ɪɐm sˌo‍ʊ sˈæd|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-147.wav|a‍ɪ ɹˈi‍əli lˈʌv lˈɛðɚ sˈʌmθɪŋ ɐbˌa‍ʊt ðə dˈɪfɹənt tˈa‍ɪps ænd stˈa‍ɪlz ʌv θˈɪŋz ænd ðə dˈɪfɹənt tɛknˈiːks tə mˈe‍ɪk ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-41.wav|ˈæftɚ ɡˌo‍ʊɪŋ fɹʌm fˈɑːstɚ hˈo‍ʊm tə fˈɑːstɚ hˈo‍ʊm ma‍ɪ bˈʌdi wˈʌn ɐ fˈʊl ɹˈa‍ɪd skˈɑːlɚʃˌɪp tʊ ˌa‍ʊɚ stˈe‍ɪt kˈɑːlɪd‍ʒ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-84.wav|sˈʌmta‍ɪmz a‍ɪl hæv ɐ sˈɔŋ stˈʌk ɪn ma‍ɪ hˈɛd fɔːɹ ˈa‍ʊɚz|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-25.wav|a‍ɪ ˈo‍ʊnli wˈɔnt ɐ lˈɪɾə‍l ˈɔf ðə tˈɑːp ænd ðə sˈa‍ɪdz ænd bˈæk tə hæv klˈiːn lˈa‍ɪnz|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-153.wav|æt ma‍ɪ d‍ʒˈɑːb a‍ɪ ɡɑːt dˌɪspɹəpˈoː‍ɹʃənətli ˈæŋɡɹi wɪð ɐ t‍ʃˈa‍ɪld ma‍ɪ ɹɪˈækʃən wʌz nˌɑːt æz ɪt ʃˌʊdəv bˌɪn|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-58.wav|ɔːlɹˈa‍ɪt bˌʌt ɪts fˈɪʃ ðæt dˈuː sˈʌmθɪŋ ðæt nˈʌn ʌvðɪ ˈʌðɚ fˈɪʃ dˈuː lˈa‍ɪk ðə swˈɔlo‍ʊz ɹᵻtˈɜːnɪŋ tə kˌe‍ɪpɪstɹˈɑːno‍ʊ ɔː‍ɹ ðə lˈɛmɪŋz θɹˈo‍ʊɪŋ ðɛmsˈɛlvz ˈɔf ðə klˈɪfs|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-165.wav|a‍ɪv bˌɪn hˌævɪŋ tə dˈiːl wɪð mˌiː ænd ma‍ɪ wˈa‍ɪfz nˈuː bˈɪznəs ænd ɪts bˌɪn kˈa‍ɪnd ʌv stɹˈɛsfə‍l|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-86.wav|æntˈɪsᵻpˌe‍ɪɾɪŋ ɐ ɡɹˈe‍ɪt ɐmˈa‍ʊnt ʌv mˈʌni|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-265.wav|a‍ɪ lˈʌv ˈɔːlmo‍ʊst ˈɔːl ðɛ‍ɹ sˈɔŋz ɪspˈɛʃə‍li ɪnðə ɹˈɛkɚdz ðæt sˈo‍ʊld ˌo‍ʊvɚ hˈʌndɹɪd mˈɪli‍ən|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-173.wav|ðæts ɹˈi‍əli kˈuːl mˈo‍ʊst kˈæmɹə fˈo‍ʊnz ɑː‍ɹ sˈɪmplɚ ðɐn dˈɪd‍ʒɪɾə‍l kˈæmɹəz bˌʌt ɪɾ ɐmˈe‍ɪzɪŋ hˌa‍ʊ fˈɑː‍ɹ ðə tɛknˈɑːləd‍ʒi hɐz kˈʌm|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-185.wav|hæv juː ɐplˈa‍ɪd tʊ ˌɛni vˈɛɾɚɹˌɪnɛɹi skˈuːlz ɔː‍ɹ dˈʌn ˌɛni ɹᵻsˈɜːt‍ʃ ˌɪntʊ pɹˈo‍ʊɡɹæmz|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-353.wav|a‍ɪɐm ɡˌo‍ʊɪŋ ˌɔn ve‍ɪkˈe‍ɪʃən nˈɛkst wˈiːk a‍ɪ kˈænt wˈe‍ɪt ɪt hˈæzbiːn fɚɹˈɛvɚ sˈɪns a‍ɪ hæv hæd ɐ pɹˈɑːpɚ ve‍ɪkˈe‍ɪʃən|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-269.wav|ɪn ɐ dɪskˈʌʃən ðə lˈiːdɚ wˈɔntᵻd tə stˈɑːp bɪkˈʌz ʃiː wʌz ʌvðɪ əpˈɪni‍ən ðæt wiː wɜː nˌɑːt ɪnvˈɑːlvd ænd ʃiː mɪsd‍ʒˈʌd‍ʒd ˌa‍ʊɚ ɹɪˈækʃənz æz nˈɛɡətˌɪv wiː ha‍ʊˈɛvɚɹ ˈo‍ʊnli pˈo‍ʊzd sˈɛvɹə‍l kwˈɛst‍ʃənz wˌɪt‍ʃ ʃiː kˌʊdənt ˈænsɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-117.wav|wˌɛn ma‍ɪ dˈɑːɡ ɡɹˈiːts mˌiː æt ma‍ɪ dˈoː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-239.wav|ðə dˈe‍ɪ ma‍ɪ dˈɔːɾɚ wʌz bˈɔː‍ɹn|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-105.wav|ˈɔːsʌm wɪ‍ɹ bˈo‍ʊθ ɡˌo‍ʊɪŋ təbi ɪn ˌɛlˈe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-149.wav|a‍ɪm sˌo‍ʊ skˈɛ‍ɹd ʌv bˈʌɡz|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-88.wav|a‍ɪ ˈe‍ɪt sˌʌm hˈo‍ʊmme‍ɪd ˈa‍ɪs kɹˈiːm ðɪ ˈʌðɚ dˈe‍ɪ wˌʌt ɐ wˈʌndɚfə‍l tɹˈiːt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-273.wav|a‍ɪ kˈiːp hˈɛdɪŋ ɐ nˈɔ‍ɪz kˈʌmɪŋ fɹʌm ma‍ɪ ˈæɾɪk|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-73.wav|a‍ɪ fˈiːl sˈædnəs wɛn a‍ɪ ˈo‍ʊnli ɪmˈæd‍ʒɪn ðæt a‍ɪ kʊd lˈuːz ɐ klˈo‍ʊs pˈɜːsən sˌʌm tˈa‍ɪm ɐɡˈo‍ʊ a‍ɪ lˈɔst ɐ mˈæn hˈuːm a‍ɪ ɡɹˈe‍ɪtli ɹᵻspˈɛktᵻd|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-161.wav|a‍ɪm ɡˌo‍ʊɪŋ təbi fˈa‍ɪn tˈuː o‍ʊkˈe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-41.wav|a‍ɪ dˈo‍ʊnt lˈa‍ɪk ˈæpə‍l pɹˈɑːdʌkts a‍ɪm ɐ sˈæmsʌŋ fˈæn|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-151.wav|a‍ɪ fˈɛlt ðɪs wˈe‍ɪ ˈæftɚ ma‍ɪ sˈʌn wʌz bˈɔː‍ɹn ɪt wʌz ɐn ɐmˈe‍ɪzɪŋ tˈa‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-344.wav|a‍ɪɐm ɡˌo‍ʊɪŋ ˌɔn ɐ tɹˈɪp nˈɛkst mˈʌnθ ænd a‍ɪm ɹˈi‍əli ɛksˈa‍ɪɾᵻd ɐbˈa‍ʊt ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-113.wav|wˌɛn ma‍ɪ wˈa‍ɪf ɡˈe‍ɪv bˈɜːθ tʊ ɐ bˈe‍ɪbi bˈɔ‍ɪ ma‍ɪ ˈo‍ʊnli sˈʌn tə dˈe‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-11.wav|a‍ɪm ɡˌənə ˈæsk hɜː tə mˈæɹi mˌiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-169.wav|a‍ɪ wʌz wˈɑːt‍ʃɪŋ ɐ tˌiːvˈiː ʃˈo‍ʊ ænd ðə kˈʌpə‍l wɜː ɡˌɛɾɪŋ mˈæɹid ɪt wʌz sˌo‍ʊ swˈiːt ðˌɐɾɪt mˌe‍ɪd mˌiː kɹˈa‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-75.wav|a‍ɪ wˈɔnt tə ɡɛt ɐ pˈækɪd‍ʒ ʌv sˌɪɡɚɹˈɛt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-198.wav|wiː d‍ʒˈʌst wˌɜːnt ɪn ɐ ɡˈʊd spˈɑːt ðɪs ɪz ɐ mˈʌt‍ʃ bˈɛɾɚ spˈɑːt|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-369.wav|ɡˈɪv mˌiː ɐ pˈækɪd‍ʒ ʌv twˈɛnti ðˈɛn ænd wˌɛ‍ɹ dˈuː a‍ɪ fˈa‍ɪnd ʃˈuːle‍ɪsᵻz|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-16.wav|a‍ɪɐm klˈo‍ʊs tə fˈe‍ɪlɪŋ skˈuːl ænd a‍ɪ dˈo‍ʊnt nˈo‍ʊ wʌt tə dˈuː|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-182.wav|a‍ɪɐm sˌo‍ʊ ɐfɹˈe‍ɪd a‍ɪ wɪl fɚɡˈɛt ma‍ɪ lˈa‍ɪnz dˈʊ‍ɹɹɪŋ ðə plˈe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-136.wav|ɪt wʊd ɐpˈɪ‍ɹ ðˌɐɾɪt ɪz ɪnðə nˈɔː‍ɹðɚn ɔː‍ɹ wˈɛstɚn jˌʊ‍ɹɹəpˈi‍ən ˈænsɛstɹi fɔː‍ɹ wʌtˈɛvɚ ɹˈiːzən|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-93.wav|wˌɛn ma‍ɪ fɹˈɛnd dɪdnˌɑːt pˈæs ðə hˈa‍ɪ skˈuːl ɡɹˌæd‍ʒuːˈe‍ɪʃən ɛɡzˌæmᵻnˈe‍ɪʃənz|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-41.wav|fˈa‍ɪnə‍li ænd fɚɹˈɛvɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-210.wav|a‍ɪɐm ˈo‍ʊld a‍ɪɐm sˈɛpɚɹˌe‍ɪɾᵻd fɹʌm ma‍ɪ wˈa‍ɪf a‍ɪ lˈɪv fˈɑː‍ɹ fɹʌm ma‍ɪ t‍ʃˈɪldɹən fɔː‍ɹ pɹæɡmˈæɾɪk ɹˈiːzənz a‍ɪɐm ðə wˈʌn ðæt kæn fˈa‍ɪl fɔː‍ɹ dᵻvˈoː‍ɹs a‍ɪ duːnˌɑːt wˈɔnt tə dˈa‍ɪ ɐlˈo‍ʊn|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-31.wav|ðæts bɐnˈænə bɹˈɛd ðæts t‍ʃˈɑːklət t‍ʃˈɪp ˈo‍ʊtmi‍əl ɹˈe‍ɪzən kˈʊkiz|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-163.wav|lˈæst wˈiːk wiː hædtə ɡˌo‍ʊ tʊ ɐ fjˈuːnɚɹə‍l ɪt ɹˈi‍əli hˈɪt mˌiː hˈɑː‍ɹd sˈiːɪŋ ˈɔːl ma‍ɪ ɡɹˈiːvɪŋ fɹˈɛndz|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-272.wav|nˈo‍ʊ θˈæŋk juː|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-84.wav|ðe‍ɪ ɑː‍ɹ smˈɔːlɚ ðɐn lˈɑːməz ænd wɜː bɹˈɛd d‍ʒˈʌst fɔː‍ɹ ðɛ‍ɹ fˈa‍ɪbɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-126.wav|æz ɐ t‍ʃˈa‍ɪld bˌiːɪŋ sˈɛnt tə ðə ʃˈɑːp ba‍ɪ mˈʌðɚ bˈa‍ɪɪŋ sˌʌm t‍ʃˈɑːklət ɡˌɛɾɪŋ kˈɔːt ba‍ɪ ma‍ɪ mˈʌðɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-407.wav|d‍ʒˈʌɡlɪŋ ɪz vˈɛɹi fˈʌn ænd ˌɪzənt ˈɔːl ðæt kˈɑːmplᵻkˌe‍ɪɾᵻd|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-155.wav|æt ma‍ɪ sˈʌmɚ d‍ʒˈɑːb ɐ nˈuː kˈɛ‍ɹɾe‍ɪkɚ hɐdbɪn ɛmplˈɔ‍ɪd hˌuː wʌz ma‍ɪ ˈe‍ɪd‍ʒ bˌʌt a‍ɪ pɹɪfˈɜːd ɡˌo‍ʊɪŋ ˈa‍ʊt fɔː‍ɹ lˈʌnt‍ʃ wɪððɪ ɐkˈa‍ʊnts pˌɜːsənˈɛl ɹˈæðɚ ðɐn wɪð hˌɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-157.wav|ðə wˈɑːʃɪŋ məʃˈiːn ˌɪzənt wˈɜːkɪŋ ɐɡˈɛn|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-118.wav|a‍ɪ ɪmˈæd‍ʒɪn ʃiː t‍ʃˈe‍ɪnd‍ʒᵻz θɹuːˈa‍ʊt ðə fˈɪlm wʊd juː sˈe‍ɪ ɪɾ ɪz fɚðə bˈɛɾɚ ɔː‍ɹ fɚðə wˈɜːs|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-300.wav|a‍ɪ fˈɛlt sˈæd wɛn a‍ɪ hˈɜːd ðæt ma‍ɪ kˈʌzən hæd pˈæst ɐwˈe‍ɪ d‍ʒˈʌst sˈʌdənli|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-195.wav|wʌz nˈa‍ʊ ˈɔːl ɐlˈo‍ʊn ɪnðə wˈɜːld ɹᵻspˈɑːnsᵻbə‍l fɔː‍ɹ ma‍ɪ ˈo‍ʊn ˈækʃənz|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-101.wav|a‍ɪ wʌz ɛkstɹˈiːmli ʌpsˈɛt wɛn tˈuː pˈiːpə‍l dɪdnˌɑːt ʃˈo‍ʊ ˌʌp tə plˈe‍ɪ flˈæɡ fˈʊtbɔːl ðe‍ɪ tˈo‍ʊld mˌiː ðe‍ɪ wɜː ɡˌo‍ʊɪŋ tə kˈʌm ðə dˈe‍ɪ bᵻfˈoː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-135.wav|sˈʌmwʌn ˈɔːlmo‍ʊst kˈʌt mˌiː ˈɔf tədˈe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-290.wav|a‍ɪ kˈænt slˈiːp æt nˈa‍ɪt stɹˈʌɡlɪŋ tə fˈɔːl ɔː‍ɹ stˈe‍ɪ ɐslˈiːp|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-213.wav|a‍ɪ ˌʌndɚstˈænd ðˈæt mˈæm bˌʌt θˈɪŋz ɡɛt lˈɔst ðɛ‍ɹz nˈʌθɪŋ a‍ɪ kæn dˈuː ɐbˌa‍ʊt ðˈæt θˈɪŋz hˈæpən ˈæksɪdənts hˈæpənz|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-87.wav|ɐ kˈo‍ʊwɜːkɚ mˈæd mˌiː vˈɛɹi mˈæd wˈʌn dˈe‍ɪ ʃiː slˈæmd ɐ lˈɑː‍ɹd‍ʒ ˈɔː‍ɹdɚɹ ʌv wˈɜːk ˌɔn ma‍ɪ dˈɛsk ænd bˈe‍ɪsɪkli dᵻmˈændᵻd ðæt a‍ɪ dˈuː ɪt ʃiː hɐz nˈo‍ʊ ɹˈa‍ɪt tə dˈuː ðˈæt|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-229.wav|jˈɛs a‍ɪ nˈo‍ʊ ɐ lˈɪɾə‍l ɪɾ ɪz ɪnðɪ ˈiːstɚn jˌuːˈɛs ænd ɡo‍ʊz fɹʌm d‍ʒˈɔː‍ɹd‍ʒə tə mˈe‍ɪn|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-125.wav|ˌɔn ma‍ɪ bˈɜːθde‍ɪ ɐ fɹˈɛnd kˈe‍ɪm tə sˈiː mˌiː ˌʌnɛkspˈɛktᵻdli ænd bɹˈɔːt mˌiː flˈa‍ʊɚz a‍ɪ jˈuːʒuːə‍li duːnˌɑːt sˈiː hɜː vˈɛɹi ˈɔfən|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-34.wav|ma‍ɪ d‍ʒˈɑːb ʃˈʌt dˌa‍ʊn dˈuː tə kˈɑːvɪd ænd a‍ɪv lˈɔst ɐ lˈɑːt ʌv ˈɪŋkʌm|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-20.wav|a‍ɪ bˈɔːt ɐ kɹˈɪsməs pɹˈɛzənt fɔː‍ɹ ma‍ɪ ɡˈɜːlfɹɛnd ˌɔn ma‍ɪ wˈe‍ɪ hˈo‍ʊm a‍ɪ wʌz ɹˈi‍əli ɡlˈæd ɐbˌa‍ʊt hˌævɪŋ fˈa‍ʊnd sˈʌt‍ʃ ɐ sˈuːɾəbə‍l θˈɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-242.wav|ðæts tɹˈuː ɪt mˈe‍ɪ mˌe‍ɪk ɐ pˈɜːsən ˈiːvən ˈæŋɡɹiɚɹ æt ðə pˈɜːsən ðe‍ɪ dᵻvˈoː‍ɹst ɪspˈɛʃə‍li ɪf ðe‍ɪɚɹ ʌpsˈɛɾɪŋ ðə kˈɪd|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-79.wav|a‍ɪ ɡɑːt ɐ d‍ʒˈɑːb ˈæftɚɹ ɐ lˈɔŋ pˈi‍əɹɪəd ʌv ʌnɛmplˈɔ‍ɪmənt|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-134.wav|a‍ɪ fˈiːl ɹˈi‍əli bˈæd fɔː‍ɹ hɪz fˈæmɪli juː nˈo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-309.wav|a‍ɪ hæd ɐ dˈɑːktɚz ɐpˈɔ‍ɪntmənt æt nˈa‍ɪn æm a‍ɪ hædtə wˈe‍ɪt ɐn ˈa‍ʊɚ ænd ɐ hˈæf tʊ ˈiːvən stˈɑː‍ɹt ma‍ɪ ɐpˈɔ‍ɪntmənt|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-170.wav|a‍ɪv ˈo‍ʊnli wˈɔːkt θɹuː wˈʌn wˌa‍ɪl ɪnðə bæhˈɑːməz ðə kɐsˈiːno‍ʊ kənsˈɪstᵻd ʌv vˈɛɹi‍əs ɡˈæmblɪŋ fəsˈɪlᵻɾiz|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-106.wav|bˈæk ɪnðə dˈe‍ɪ a‍ɪ ɹˈi‍əli wˈɔntᵻd hˈe‍ɪlo‍ʊ θɹˈiː a‍ɪ wˈe‍ɪɾᵻd ˈɔːl nˈa‍ɪt fɔːɹ ɪt ænd ɡɑːt ɪnðə stˈoː‍ɹ ɹˈi‍əli ˈɜːli|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-3.wav|hˌuː tˈe‍ɪks ðə dˈɑːɡ ˌɔn sˈæɾɚdˌe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-283.wav|wˈɔːkɪŋ æt fɹˈa‍ɪde‍ɪ nˈa‍ɪt θɹuː nˈɪnd‍ʒa‍ɪməŋɡ ɡˌo‍ʊɪŋ tʊ ɐ pˈʌb ɔːɹ ɐ dˈɪsko‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-22.wav|ɐ nˈuː pˈiːtsə d‍ʒˈɔ‍ɪnt ɪz ˈo‍ʊpənɪŋ ˌʌp hˈɪ‍ɹ a‍ɪ kˈænt wˈe‍ɪt tə ɡˌo‍ʊ ˈiːt ðˈɛ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-205.wav|wˌa‍ɪ nˈɑːt juː kˈʊd æt lˈiːst tɹˈa‍ɪ ðe‍ɪ hæv tʊ ˌʌndɚstˈænd|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-53.wav|kˈænt fˈa‍ɪnd ɐ d‍ʒˈɑːb pˈæθ ɪn lˈa‍ɪf|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-274.wav|nˌɑːt ɹˈi‍əli bˌʌt ˈɛmᵻli bɹˈɔnts wˈʌðɚɹɪŋ hˈa‍ɪts wʌzɐ ɡɹˈe‍ɪt nˈɑːvə‍l|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-166.wav|æt ðə fjˈuːnɚɹə‍l ʌv ma‍ɪ ˈʌŋkə‍l a‍ɪ wʌz wˈʌn ʌvðə bˈɛɹɚz a‍ɪ wʌz nˌɑːt fəmˈɪlɪ‍ɹ wɪððɪ ˈɛɾɪkət ænd ˈæktᵻd tˈæktləsli bɪkˈʌz ʌv ma‍ɪ ˈɪɡnɚɹəns|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-56.wav|tə hæv ɐ fɹˈɛnd hˌuː a‍ɪ dˈɪdnt sˈiː fɔː‍ɹ mˈʌnθs ænd ˌʌndɚ ðə sˈɜːkəmstˌænsᵻz ðæt a‍ɪ mˈɛt hˌɪm mˌe‍ɪd mˌiː fˈiːl hˈæpi ænd pɚhˈæps bɪkˈʌz ɪt hˈæzbiːn wˈʌn ʌvðə ɡˈʊd θˈɪŋz ðæt a‍ɪ lˈɜːnd wɪð ðɪs fɹˈɛnd|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-302.wav|a‍ɪ hæd nˈo‍ʊ a‍ɪdˈi‍ə ɪf a‍ɪ wʌz ɡˌənə dˈuː wˈɛl ˌɔn ma‍ɪ mˈɪdtˌɜːm ɪt mˌe‍ɪd mˌiː sˌo‍ʊ wˈʌɹid|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-72.wav|a‍ɪ dˈo‍ʊnt ˌʌndɚstˈænd wˌa‍ɪ ðe‍ɪ wʊd d‍ʒˈʌst dˈuː sˈʌmθɪŋ lˈa‍ɪk ðˈɪs|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-160.wav|a‍ɪ wɛnt kˈæmpɪŋ ðɪ ˈʌðɚ wˈiːk ænd a‍ɪ wʌz sˌo‍ʊ hˈæpi tə nˌɑːthævtə wˈʌɹi ɐbˌa‍ʊt ðə tɹˈʌbə‍lz ʌvðə wˈɜːld fɚɹə wˈa‍ɪl ɪt wʌz θˌɛɹəpjˈuːɾɪk ˈɑːnɪstli|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-79.wav|a‍ɪɐm sˈiːɪŋ ðə tˈuː hˈʌndɹɪd dˈɑːlɚ t‍ʃˈɑː‍ɹd‍ʒ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-40.wav|a‍ɪ wˈʌndɚ wʌt ðə fˈɜːst pˈiːtsə mˈe‍ɪkɚ wʌz θˈɪŋkɪŋ ɪnðə tˈɛnθ sˈɛnt‍ʃɚɹi lˈɑːl|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-299.wav|ɐbˌa‍ʊt sˈɪks jˈɪ‍ɹz ɐɡˈo‍ʊ ɐ ɹˈi‍əli bˈæd stˈoː‍ɹm ɹˈo‍ʊld θɹuː ma‍ɪ sˈɪɾi ænd ɐ tɔː‍ɹnˈe‍ɪdo‍ʊ ˈɔːlmo‍ʊst hˈɪt ˌʌs a‍ɪ wʌz ɹˈi‍əli skˈɛ‍ɹd|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-11.wav|pˈæsɪŋ ʌv ma‍ɪ mˈʌðɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-74.wav|sˌo‍ʊ jʊɹ ˌʌndᵻsˈa‍ɪdᵻd|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-231.wav|bˈʌdi ðə kˈe‍ɪk bˈɔs ɪz fˈe‍ɪməs ænd hɐz hɪz ˈo‍ʊn tˌiːvˈiː ʃˈo‍ʊ ˌɔn tˌiːˌɛlsˈiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-199.wav|wˌʌt æm a‍ɪ ɡˌo‍ʊɪŋ tə dˈuː|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-214.wav|ɡˌo‍ʊɪŋ ˌɔn kɹˈuːz fɚðə fˈɜːst tˈa‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-90.wav|bˌiːɪŋ ðə fˈɜːst mˈiːl ʌvðə dˈe‍ɪ ɪt ʃˌʊd biː ɹᵻɡˈɑː‍ɹdᵻd æz bˌiːɪŋ ɪmpˈoː‍ɹtənt juː nˈiːd tə ɡɛt ˈɛnɚd‍ʒi ɹˈa‍ɪt fɹʌmðə mˈɔː‍ɹnɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-270.wav|dˈʊ‍ɹɹɪŋ ɐ fˈæmɪli ɹˌiːjˈuːni‍ən ðe‍ɪ stˈɑː‍ɹɾᵻd tˈɔːkɪŋ ɐbˌa‍ʊt mˌiː wˈɛɹɪŋ ɐn ˈɪɹɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-289.wav|a‍ɪ ɐɡɹˈiː ˈɑː‍ɹt ɪz ˌɛni kɹiːˈe‍ɪʃən ðæt ɛkspɹˈɛsᵻz ðə kɹiːˈe‍ɪɾɚz skˈɪl ðə pˈɪɹɐmˌɪdz dˈuː ɛɡzˈæktli ðˈæt|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-129.wav|æz ɐ lˈɔ‍ɪɚɹ ɪn ˈɔː‍ɹdɚ tə pɹˈuːv ma‍ɪ pˈɔ‍ɪnt ðæt ma‍ɪ klˈa‍ɪ‍ənt fɚɡˈɑːt hɪz kˈɑː‍ɹ ænd mɪstˈe‍ɪkənli ˈɛntɚ sˈʌmwʌn ˈɛlsᵻz kˈɑːɹ a‍ɪ hædtə lˈiːv ma‍ɪ zˈɪpɚɹ ˈo‍ʊpən ˈæftɚ ɡˌo‍ʊɪŋ tə ðə wˈɑːʃɹuːm|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-71.wav|wiː hæv ɐ ɡɹˈe‍ɪt vɚɹˈa‍ɪ‍əɾi ʌv t‍ʃa‍ɪnˈiːz æntˈiːks ænd pˈoː‍ɹsɪlˌɪn dˈuː juː lˈa‍ɪk ðˌɛm|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-298.wav|dˈuː juː nˈo‍ʊ ðæt vˌɛd‍ʒɪtˈɛɹi‍ənˌɪzəm dˈe‍ɪts bˈæk tə sˌɪvɪlᵻzˈe‍ɪʃənz ʌv ˈe‍ɪnt‍ʃənt ˈɪndiə ænd ˈe‍ɪnt‍ʃənt ɡɹˈiːs|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-343.wav|wˈɛl a‍ɪ hæv nˈo‍ʊ kˈæmɹə hˈɪ‍ɹ a‍ɪ kˈænt hˈɛlp juː æɾ ˈɔːl hˈɪ‍ɹ mˈæm a‍ɪ hæv fˈɔː‍ɹmz fɔː‍ɹ sˈʌmθɪŋ kəmplˈiːtli dˈɪfɹənt juː nˈiːd tə ɡˌo‍ʊ tʊ ɐ dˈɪfɹənt plˈe‍ɪs|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-169.wav|ɡˌo‍ʊɪŋ tə ɡɛt sˌʌm pˈiːtsə ˈæftɚ wˈɜːk a‍ɪ lˈʌv pˈiːtsə|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-217.wav|a‍ɪ sˈɔː sˌʌm ˈo‍ʊld pˈɪks ˌɔn ˌɛfbˈiː ʌv ma‍ɪ dˈɑːɡ hˌuː ɪz pˈæst ænd ma‍ɪ nˈiːs ɪt wʌz hˈɑː‍ɹd tə sˈiː bˌʌt ðe‍ɪ wɜː ɡˈʊd mˈɛmɚɹiz|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-310.wav|a‍ɪɐm ɛksˈa‍ɪɾᵻd fɚðə nˈuː sˈuːpɚ smˈæʃ bɹˈo‍ʊz a‍ɪ kænˈɑːt wˈe‍ɪt ˌɛni lˈɔŋɡɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-337.wav|a‍ɪ fˈe‍ɪld ɐ tˈɛst a‍ɪ fˈɪ‍ɹ ðæt a‍ɪ mˌa‍ɪt nˌɑːt biː ɡˈʊd ɪnˈʌf tə səksˈiːd ɪn kˈɑːlɪd‍ʒ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-164.wav|wˌa‍ɪl ˈa‍ɪ wʌz slˈiːpɪŋ ðɪ ˈʌðɚ nˈa‍ɪt ma‍ɪ hˈa‍ʊs ɐlˈɑː‍ɹm ˈɔf ɪt wʌz skˈɛɹi|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-289.wav|jˈɛs a‍ɪ hæv hˈɜːd ʌv ðæt mˈɛθəd wˌʌt kˈa‍ɪnd ʌv stˈʌf dˈuː pˈiːpə‍l jˈuːʒuːə‍li mˈe‍ɪk a‍ɪ ɡˈɛs ðə məd‍ʒˈɔːɹᵻɾi ʌv ˌʌs mˌe‍ɪk wˈɔːl dˌɛkɚɹˈe‍ɪʃənz|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-225.wav|ʃˈiː wˈɛl ʃiː sˈɛd jˈɛs fˈɜːst ʌv ˈɔːl lˈɛt mˌiː sˈe‍ɪ ðæt ɹˈa‍ɪt ˈɔf ðə bˈæt wˈɛl a‍ɪ wʊd lˈa‍ɪk tʊ ɐsˈuːm tˈuː bˌʌt juː nˈɛvɚ nˈo‍ʊ ðiːz θˈɪŋz ɹˈa‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-11.wav|ˌɔn ˈɔːl ˌa‍ʊɚ nˈuː kˈɑː‍ɹz ðə stˈændɚdz ɪŋklˈuːd|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-187.wav|a‍ɪɐm sˌo‍ʊ ɛksˈa‍ɪɾᵻd tə ɡˌo‍ʊ tə ðə pˈɑː‍ɹk wɪððə kˈɪdz tədˈe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-154.wav|a‍ɪɐm kwˈa‍ɪt mˈæd æt hˌa‍ʊ θˈɪŋz ɑː‍ɹ ɡˌo‍ʊɪŋ tə wˈɜːk|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-246.wav|ɡɑːt ɐ ɹˈe‍ɪz æt ma‍ɪ d‍ʒˈɑːb nˈa‍ʊ mˌe‍ɪkɪŋ tˈuː zˈi‍əɹo‍ʊ kˈe‍ɪ mˈoː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-256.wav|dˈɪdnt ɹˈiːəla‍ɪz ma‍ɪ pˈænts fˈɛl dˌa‍ʊn ɪn pˈʌblɪk|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-280.wav|ma‍ɪ fˈe‍ɪvɚɹᵻt bˈænd ɪz ðə kjˈʊ‍ɹ wɪð ɹˈɑːbɚt smˈɪθ a‍ɪ lˈʌv ðə sˈɔŋ pˈɪkt‍ʃɚz ʌv juː ænd sˌo‍ʊ mˈɛni ˈʌðɚz|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-291.wav|a‍ɪ wʌz bˈɛst mˈæn æt ma‍ɪ bɹˈʌðɚz wˈɛdɪŋ ɐ jˈɪɹ ɐɡˈo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-282.wav|a‍ɪ ɹˈiːsəntli wɛnt ˌɔn ma‍ɪ fˈɜːst ˌɪntɚnˈæʃənə‍l tɹˈɪp ba‍ɪ ma‍ɪsˈɛlf|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-54.wav|ɐ mˈɪshæp sˈʌfɚd ˌɔn mˌɪsɪntˈɜːpɹɪɾɪŋ ɐ ɡˈɜːlz pɹˌɑːpəzˈɪʃən|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-330.wav|a‍ɪ θˈɪŋk ma‍ɪ bˈɔ‍ɪfɹɛnd wˈɔnts tə bɹˈe‍ɪk ˈʌp hiː wˈɔnts tə hæv ɐ tˈɔːk|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-282.wav|ɪɾ ɪz pɹˈɪɾi ˈɔːsʌm bˌʌt a‍ɪ wʊd biː sˌo‍ʊ skˈɛ‍ɹd lˈɑːl wʌt dˈuː juː nˈiːd tə dˈuː tə bɪkˌʌm ɐn ˈe‍ɪvɪˌe‍ɪɾɚ dˈuː juː nˈiːd tə tˈe‍ɪk klˈæsᵻz ɔː‍ɹ ɡˌo‍ʊ tə ðɪ ˌe‍ɪvɪˈe‍ɪʃən skˈuːl|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-234.wav|a‍ɪ ɹˈi‍əli ɡɛt skˈɛ‍ɹd wɛn a‍ɪ hæv tə tˈɔːk tə pˈiːpə‍l ɪn pˈʌblɪk|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-307.wav|a‍ɪ wʌz ˈæŋɡɹi ɪnðə sˈuːpɚmˌɑː‍ɹkɪt ðɪs wˈiːk pˈɛɹənts wˌɜːnt kəntɹˈo‍ʊlɪŋ ðɛ‍ɹ kˈɪdz|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-29.wav|ɹˈi‍əli juː nˈo‍ʊ ma‍ɪ mˈɑːm ˈɔːlwe‍ɪz tˈɛlz mˌiː ˈa‍ɪ ɡɑːt ɪt bɪkˈʌz ˈa‍ɪ jˈuːs fˈo‍ʊn ænd kəmpjˈuːɾɚɹ ˈɔːl ðə tˈa‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-261.wav|wˈɛl d‍ʒˈʌst dˈo‍ʊnt ɡˈɪv ˈʌp ænd ðɛ‍ɹz juː nˈo‍ʊ juː nˈɛvɚ nˈo‍ʊ sˈʌmθɪŋ mˌa‍ɪt biː ɚɹˈa‍ʊnd ðə kˈɔː‍ɹnɚ təmˈɑːɹo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-154.wav|hˈe‍ɪ d‍ʒˈɔ‍ɪ kˈʌm ɪn hˈɪ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-246.wav|a‍ɪ fˈa‍ɪnə‍li ɡɑːt tə ɡˌo‍ʊ tə ðə bˈæθɹuːm ˈæftɚ hˈo‍ʊldɪŋ ɪt fɔː‍ɹ θɹˈiː ˈa‍ʊɚz wˈɜːk ɪz kɹˈe‍ɪzi bˈɪzi sˈʌmta‍ɪmz|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-207.wav|ɐ fɹˈɛnd ænd a‍ɪ wɜː ɡˌo‍ʊɪŋ tə hæv ɐ stˈʌdi sˈɛʃən təɡˌɛðɚ ɪnwˌɪt‍ʃ wiː kwˈɪz a‍ʊɚsˈɛlvz ɪn ba‍ɪˈɑːləd‍ʒi mətˈɪɹiə‍l bɪkˈʌz a‍ɪ bᵻlˈiːvd a‍ɪ dˈɪdnt stˈʌdi ɪnˈʌf a‍ɪ fˈɪ‍ɹd a‍ɪ wʊd fˈe‍ɪl|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-236.wav|tˈɛlɪŋ ma‍ɪ pˈɛɹənts ðæt a‍ɪ dɪdnˌɑːt wˈɛl ɪn ɐn ɛɡzˈæm|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-287.wav|ɪt mˈe‍ɪ biː ɐ bˈɪt tˈuː ɪmˈo‍ʊʃənə‍l fɔː‍ɹ mˌiː bˌʌt ðɛɹˌɑː‍ɹ spˈɛʃə‍lɾiz ðæt fˈo‍ʊkəs ˌɔn θˈɪŋz lˈa‍ɪk dˌɜːmɐtˈɑːləd‍ʒi|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-251.wav|bˌiːɪŋ θɹˈɛʔn̩d ba‍ɪ ɐnˈʌðɚ pˈɜːsən|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-74.wav|ma‍ɪ dˈɔːɾɚ d‍ʒˈʌst kˈe‍ɪm ˌɪntʊ ðə wˈɜːld ðɪs pˈæst wˈiːkɛnd|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-226.wav|a‍ɪ nˈo‍ʊ jˌuːˈɛs ˈɑː‍ɹmi tɹˈe‍ɪnz pˈa‍ɪləts ænd hæv ðə flˈa‍ɪɪŋ ˌe‍ɪvɪˈe‍ɪʃən kɐdˈɛt pˈa‍ɪlət tɹˈe‍ɪnɪŋ pɹˈo‍ʊɡɹæm|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-241.wav|bˈɪlz ɑː‍ɹ pˈa‍ɪlɪŋ ˌʌp ænd a‍ɪ kˈænt sˈiːm tə ɡɛt ɐ d‍ʒˈɑːb a‍ɪ hɐvbɪn ɐplˈa‍ɪɪŋ ˈɛvɹɪwˌɛ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-184.wav|bˌiːɪŋ ɐɡɹˈɛsɪv ɐɡˈɛnst mˈɛmbɚz ʌv ma‍ɪ fˈæmɪli|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-218.wav|nˌɑːɾə lˈɑːt ʌv skɹˈiːmɪŋ bˌʌt ɪts ɐ fˈæst tˈɛmpo‍ʊ ænd ɐɡɹˈɛsɪv stˈa‍ɪl|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-70.wav|ɐ tˈiːt‍ʃɚ spˈɛnt ɐ lˈɑːt ʌv tˈa‍ɪm hˈɛlpɪŋ mˌiː wɪðˌa‍ʊt wˈɔntɪŋ təbi pˈe‍ɪd fɔːɹ ɪt fɚðɪ ɛɡzˈæm a‍ɪ dˈɪdnt ɡɑːt ɐ ɡˈʊd ɡɹˈe‍ɪd ænd a‍ɪ fˈɛlt ɐʃˈe‍ɪmd|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-297.wav|wˌɛn ma‍ɪ t‍ʃˈiːf ɐkjˈuːzd mˌiː əvən ˈɛɹɚ ðæt a‍ɪ hˈædənt mˈe‍ɪd|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-195.wav|a‍ɪ ɹˈi‍əli ɛnd‍ʒˈɔ‍ɪ ɡˌo‍ʊɪŋ tə ðə mˈuːvɪz ðæt ɪz wˌɛɹ ˈa‍ɪ tˈʊk ma‍ɪ ɡˈɜːl fɹˈɛnd ˌɔn ˌa‍ʊɚ fˈɜːst dˈe‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-130.wav|jˈɛh ˈæpə‍lz ɑː‍ɹ mˈoː‍ɹ fˈʌn tə ɹˈe‍ɪz ɪspˈɛʃə‍li ɔnðə smˈɔːlɚ fˈɑː‍ɹmz ðe‍ɪ ˈɔfən ˈo‍ʊpən tə ðə pˈʌblɪk sˌo‍ʊ juː kæn pˈɪk jʊɹ ˈo‍ʊn|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-325.wav|a‍ɪɐm fˈiːlɪŋ vˈɛɹi hˈo‍ʊpfə‍l ɐbˌa‍ʊt ma‍ɪ bˈɪznəs ɪt kæn mˌe‍ɪk mˌiː d‍ʒˈɪɾɚɹi bˌʌt hˈæpi ˈɛvɹɪdˌe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-171.wav|jˈɛs a‍ɪ ɹˈi‍əli lˈa‍ɪk dɪstˈɜːbd hæv juː hˈɜːd ˈɛnɪθˌɪŋ fɹʌm kˈɑːmbæt ˈɪɹe‍ɪk ɔː‍ɹ ɹˈo‍ʊdɹʌnɚ ðe‍ɪ wɜː dˈɛθ mˈɛɾə‍l bˈændz ðæt wɜː pˈɑːpjʊlɚɹ ɪnðə lˈe‍ɪt ˈe‍ɪɾiz ænd ˈɜːli nˈa‍ɪntiz|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-65.wav|ɪf a‍ɪ ɪf juː wɪl juː stˈɪk wɪð ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-89.wav|juː ɡˈɑːɾə hæv sˌʌm bˈɛɾɚ diːˈo‍ʊdɚɹənt|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-192.wav|fˈɪfti θˈa‍ʊzənd dˈɑːlɚz fˈɪfti θˈa‍ʊzənd dˈɑːlɚz a‍ɪ wʌz d‍ʒˈʌst ˈa‍ʊt a‍ɪ d‍ʒˈʌst ʃiːz wˈɛl ʃiːz ɐ fɹˈɛnd ʌv fɹˈɛnd bˌʌt lˈa‍ɪk|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-10.wav|wˌɛn bˈa‍ɪkɪŋ ænd a‍ɪ fˈɛlt vˈɛɹi bˈæd|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-145.wav|sˈɜːʔn̩li a‍ɪʃˌɐl pɹˈɑːbəbli dˈuː ɐ kˈoː‍ɹt kˈɜːtsi|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-337.wav|ma‍ɪ nˈe‍ɪbɚ ɡɑːt ðɪs fˈænsi ˈa‍ʊdi ðæt ˈa‍ɪ sˈɔː æt ðə dˈiːlɚʃˌɪp ɪt mˈʌstɐv kˈɔst sˈɛvən zˈi‍əɹo‍ʊ kˈe‍ɪ vˈɛɹi nˈa‍ɪs kˈɑː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-242.wav|ænd wʌt ɐbˌa‍ʊt kjˈuː spˈoː‍ɹts ˈɔːlso‍ʊ nˈo‍ʊ ˌʌndɚ ðɪ ʌmbɹˈɛlə nˈe‍ɪm bˈɪlɪ‍ɹz|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-235.wav|ɡˌo‍ʊɪŋ tə vˈɪzɪt ma‍ɪ bɹˈʌðɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-168.wav|æt tˈa‍ɪmz a‍ɪ hɐvbɪn ɐtɹˈæktᵻd tə kˈɑːndʌkts wˌɪt‍ʃ ɑː‍ɹ sˈo‍ʊʃə‍li dᵻɡɹˈe‍ɪdᵻd dˈuː tə ðɛɹ ˈɪl kˈɑːnsɪkwənsᵻz ænd ðˈɛn a‍ɪ fˈiːl ɡˈɪlti|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-173.wav|ðɛ‍ɹz nˈʌθɪŋ tʊ ɪt wiː kˈʌm hˈɪ‍ɹ ðə ɡɹˈuːni‍ən ɚɹˈa‍ɪv ðe‍ɪ dˈuː ðɛ‍ɹ lˈɪɾə‍l fˈɪʃ bˈɪznəs wiː ɡˌo‍ʊ ˈuː ˈɑː lˈʊk æt ðə fˈɪʃ ðe‍ɪ ɡˌo‍ʊ hˈo‍ʊm wiː ɡˌo‍ʊ hˈo‍ʊm|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-191.wav|a‍ɪ hæv tə ɡˈo‍ʊ pɚhˈæps ma‍ɪ fɹˈɛnd wɪl kˈʌm wɪð mˌiː ʃiː spˈiːks ɐ lˈɪɾə‍l d‍ʒˌæpənˈiːz hɜː ɡɹˈændpɛɹənts ɑː‍ɹ fɹʌm ˌɑːkɪnˈɑːwə ænd tˈɔːt hɜː wɛn ʃiː wʌzɐ t‍ʃˈa‍ɪld|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-257.wav|hɐz d‍ʒˈʌst ɹˈʌʃt tə ma‍ɪ hˈɛd ænd ˈa‍ɪ ænd a‍ɪ mˈiːn ˈɑːnɪstli|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-344.wav|ma‍ɪ sˈɪstɚ kˈe‍ɪm bˈæk hˈo‍ʊm ænd ɹᵻpɹˈo‍ʊt‍ʃt mˌiː fɔː‍ɹ nˌɑːt hˌævɪŋ tˈa‍ɪdid ˌʌp ðə hˈa‍ʊs ɔːlðˈo‍ʊ a‍ɪ hɐdbɪn wˈɜːkɪŋ ˈɔːl mˈɔː‍ɹnɪŋ ʃiː hæd dˈʌn nˈʌθɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-261.wav|dˈɪdnt zˈɪp ma‍ɪ zˈɪpɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-45.wav|wˌa‍ɪl hˌævɪŋ ɐ dɪskˈʌʃən wɪð ma‍ɪ mˈʌðɚ a‍ɪ ɹˈiːəla‍ɪzd ðæt ʃiː dʌznˌɑːt fɚɹə mˈo‍ʊmənt dˈa‍ʊt ðə d‍ʒˌʌstɪfɪkˈe‍ɪʃən ʌv hɜː mˌe‍ɪkɪŋ ðə dᵻsˈɪʒənz kənsˈɜːnɪŋ ma‍ɪ lˈa‍ɪf|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-62.wav|a‍ɪ sˈɔː ɐ mˈa‍ʊntɪn lˈa‍ɪ‍ən ðɪs mˈɔː‍ɹnɪŋ wɛn a‍ɪ wʌz wˈɔːkɪŋ tə ma‍ɪ tɹˈʌk|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-68.wav|wˌɛn a‍ɪ wʌz tˈo‍ʊld ðæt a‍ɪ hæd pˈæst ðɪ ɛɡzˈæmz|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-209.wav|ˈa‍ɪ fˈiːl juː a‍ɪ dˈo‍ʊnt dɹˈa‍ɪv æt nˈa‍ɪt ˈa‍ɪ mˌe‍ɪk ma‍ɪ hˈʌbi dɹˈa‍ɪv ðə kˈɔːz ʌv ɐstˈɪɡmətˌɪzəm ɪz stˈɪl ʌŋklˈɪ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-64.wav|ma‍ɪ hˈʌsbənd ɪz tˈɔːkɪŋ sˌo‍ʊ lˈa‍ʊd ˌɔn hɪz hˈɛdsɛt plˈe‍ɪɪŋ vˈɪdɪo‍ʊ ɡˈe‍ɪmz ˈʌɡ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-108.wav|ɡɹˈe‍ɪt juː ɑːɹ ɐ sˈɪɹiəs plˈe‍ɪɚ bˈɪlɪ‍ɹz ˌɔn d‍ʒˈɛnɚɹə‍l hɐz lˈɔŋ hˈɪstɚɹi stɹˈɛt‍ʃɪŋ fɹʌmðə wˈʌn fˈɪfθ sˈɛnt‍ʃɚɹi|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-17.wav|ɔː‍ɹ juː kæn mˌe‍ɪk ɐ fˈo‍ʊn kˈɔːl bˌʌt a‍ɪ θˈɪŋk ɐ lˈɛɾɚ mˌa‍ɪt biː ɐ lˈɪɾə‍l mˈoːɹ ɪn ma‍ɪ ɪmpɹˈɛʃən lˈɛɾɚz hæv mˈoː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-310.wav|a‍ɪ wʌz nˈɜːvəs ɡˌo‍ʊɪŋ tə ðə dˌiːˌɛmvˈiː a‍ɪ hˈe‍ɪt ɡˌo‍ʊɪŋ ðˈɛ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-26.wav|a‍ɪv nˈɛvɚ bˌɪn tə wˈɔːlnʌt kɹˈiːk dˈuː juː nˈo‍ʊ wʌt pˈɑː‍ɹt ʌv kˌælɪfˈoː‍ɹni‍ə ðæt ɪz ˈɪn|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-96.wav|ɪts ɐ lˈa‍ɪt bɹˈa‍ʊn tˈænɪʃ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-109.wav|a‍ɪ mˈuːvd ˌa‍ʊɾəv ma‍ɪ dˈædz hˈa‍ʊs wɛn a‍ɪ wʌz wˈʌn nˈa‍ɪn ænd mˈuːvd tʊ ɐtlˈæntə ðə kˈʌmpəni a‍ɪ wˈɜːkt fɔː‍ɹ mˈuːvd ˈɔːl ʌv ˌʌs dˌa‍ʊn ˈækt‍ʃuːə‍li bˌʌt ɪt wʌz sˌo‍ʊ stɹˈe‍ɪnd‍ʒ bˌiːɪŋ wɪðˌa‍ʊt ma‍ɪ dˈæd ɔːɹ ˌɛni fˈæmɪli ɚɹˈa‍ʊnd|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-44.wav|ɐ ɡˈɜːl dɹˈɑːpt sˌʌm stˈʌf fɹʌm hɜː bˈæɡ ænd wɛn a‍ɪ tɹˈa‍ɪd tə hˈɛlp hɜːɹ a‍ɪ ɹˈiːəla‍ɪzd ðæt ʃiː hæd jˈuːzd mˌiː ænd a‍ɪ wʌz mˌe‍ɪd tə lˈʊk lˈa‍ɪk ɐ fˈuːl|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-323.wav|a‍ɪ d‍ʒˈʌst ɡɑːt lˈe‍ɪd ˈɔf|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-237.wav|a‍ɪ wɛnt tʊ ɐ d‍ʒˈɑːb mˈiːɾɪŋ ænd ˈɛvɹɪbˌɑːdi wʌz lˈe‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-39.wav|twˈɛnti wˈʌn hˈʌndɹɪd|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-287.wav|sˈʌmta‍ɪmz a‍ɪ lˈʊk æt ðə t‍ʃˈɛs bˈoː‍ɹd ænd ɹᵻmˈɛmbɚ ðə ɡˈe‍ɪmz a‍ɪ plˈe‍ɪd wɪð ma‍ɪ dˈæd a‍ɪ mˈɪs hˌɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-98.wav|a‍ɪ fˈa‍ʊnd ma‍ɪ ˈo‍ʊld hˈa‍ɪ skˈuːl jˈɪ‍ɹ bˈʊk wɛn a‍ɪ wʌz klˈiːnɪŋ ɪt ɹᵻmˈa‍ɪndᵻd mˌiː ʌv sˌʌm ˈo‍ʊld tˈa‍ɪmz ænd ɪt wʌzɐ wˈɔːk dˌa‍ʊn mˈɛmɚɹi lˈe‍ɪn|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-77.wav|ɐ jˈʌŋ vˈɪzɪɾɚ tə ðə hˈa‍ʊs stˈo‍ʊl mˈʌni fɹʌm ɐn ˈɛldɚli vˈɪzɪɾɚz pˈɜːs ɪt wˈʌzn̩t nˈo‍ʊɾɪst fɔː‍ɹ sˌʌm ˈa‍ʊɚz|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-21.wav|lˈɛts ɹˈʌn ɐ lˈɪɾə‍l bˈɪt ʌv wˈɔːɾɚ ɹˈiːəl kwˈɪk|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-110.wav|a‍ɪ wʌz tɹˈa‍ɪɪŋ tə wˈɑːt‍ʃ ma‍ɪ fˈe‍ɪvɹɪt ʃˈo‍ʊ ˌɔn tˌiːvˈiː ænd ma‍ɪ hˈʌsbənd kˈɛpt tˈɔːkɪŋ tə mˌiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-392.wav|wˈɛl a‍ɪ dˈo‍ʊnt nˈo‍ʊ ɪf ɪɾ ɪz ˈɑːd a‍ɪ səpˈo‍ʊzd ɪt dᵻpˈɛnd ˌɔn hˌa‍ʊ mˈʌt‍ʃ juː dɹˈɪŋk wˌɛn juː dɹˈɪŋk|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-242.wav|ɡˈʊd ɔːlɹˈa‍ɪt wɪ‍ɹ sˌo‍ʊ hˈæpi|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-250.wav|a‍ɪ wʌz skˈɛ‍ɹd wɛn a‍ɪ sˈɔː ɐ mˈa‍ʊntɪn lˈa‍ɪ‍ən æt nˈa‍ɪt ɹˈa‍ɪt ɪn fɹˈʌnt ʌv mˌiː a‍ɪ ɹˈæn tə ma‍ɪ tˈɛnt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-66.wav|a‍ɪ ɡˈɑːt tuː|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-223.wav|nˈuː bˈɔs hˌuː ɪz dˈɪfɪkə‍lt|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-114.wav|bɹˈɑːkəli ɹᵻzˈɛmbə‍lz kˈɑːlɪflˌa‍ʊɚ dˈʌzənt ɪt ɪt tˈe‍ɪst sˌo‍ʊ dˈɪfɹənt ðˌo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-276.wav|hˌa‍ʊ ɹɪdˈɪkjʊləs hˌa‍ʊ ˈʌɾɚli ˈʌɾɚli ɹɪdˈɪkjʊləs|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-327.wav|a‍ɪɐm fˈa‍ɪnə‍li ɡˌo‍ʊɪŋ ˌɔn ma‍ɪ dɹˈiːm ve‍ɪkˈe‍ɪʃən tə tæhˈiːɾi a‍ɪ kæn hˈɑː‍ɹdli wˈe‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-44.wav|ˈæftɚ wˈɜːkɪŋ æt ma‍ɪ d‍ʒˈɑːb fɔː‍ɹ wˈʌn jˈɪ‍ɹz ma‍ɪ ɹᵻvjˈuː ɪz kˈʌmɪŋ ˌʌp a‍ɪm hˈo‍ʊpɪŋ ɪt ɡo‍ʊz wˈɛl sˈɪns ˈa‍ɪ wˈɜːk hˈɑː‍ɹd|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-358.wav|a‍ɪɐm ɡˌo‍ʊɪŋ tʊ ɐ bˈɪ‍ɹ dˈæblɚ ðɪs wˈiːkɛnd ɪt hˈæzbiːn ɐ ɹˈi‍əli bˈɪzi lˈæst kˈʌpə‍l ʌv wˈiːks sˌo‍ʊ ɪt ʃˌʊd biː ˈɔːsʌm tə dɹˈɪŋk ænd nˌɑːt wˈʌɹi ɐbˌa‍ʊt ˈɛnɪθˌɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-60.wav|wˌɛn wɜː ðe‍ɪ fˈa‍ʊndᵻd|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-49.wav|wˌɛn ma‍ɪ bɹˈʌðɚ ɡɑːt vˈɛɹi lˈo‍ʊ mˈɑː‍ɹks ɪnðɪ ɛɡzˈæmz a‍ɪ wʌz vˈɛɹi ˈæŋɡɹi a‍ɪ pˌʊt ma‍ɪ stˈʌdiz ɐsˈa‍ɪd tə hˈɛlp hˌɪm æz ˈɛvɹi tˈa‍ɪm ma‍ɪ bɹˈʌðɚ dˈʌz bˈædli æt skˈuːl ma‍ɪ fˈæmɪli mˈɛmbɚz blˈe‍ɪm mˌiː æz wˈɛl|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-72.wav|ɐ tɹˈuːθ ɛkspɹˈɛst ʌnθˈɪŋkɪŋli æɾə kˈɔfi pˈɑː‍ɹɾi a‍ɪ ɹˈiːəla‍ɪzd lˈe‍ɪɾɚ ðæt a‍ɪ hɐdbɪn ɪŋkənsˈɪdɚɹət æɾɚ ɹˈɔŋ mˈo‍ʊmənt ænd ðə ɹˈɔŋ plˈe‍ɪs|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-260.wav|hiː ˈæskt mˌiː tə mˈæɹi hˌɪm lˈa‍ɪk ˈɑːnste‍ɪd‍ʒ a‍ɪ wʌz lˈa‍ɪk a‍ɪ kˌʊdənt bᵻlˈiːv ænd a‍ɪ hædtə wˈɔːk ˌʌp ðˈɛ‍ɹ ænd a‍ɪ wʌz lˈa‍ɪk a‍ɪ θˈɪŋk a‍ɪ tɹˈɪpt ˌɔn sˈʌmθɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-139.wav|wˌʌt a‍ɪ kæn dˈuː fɔː‍ɹ juː ɪz ɡˈɪv juː ɐ hˈʌndɹɪd dˈɑːlɚz ɹˈa‍ɪt nˈa‍ʊ ænd fˈɪl ˈa‍ʊt kəmplˈe‍ɪnt fˈɔː‍ɹm|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-288.wav|ˈiːɾɪŋ tˈuː mʌt‍ʃ a‍ɪ fˈɛlt ɡˈɪlti ˈæftɚwɚdz bɪkˈʌz a‍ɪ nˈuː a‍ɪ ʃˌʊdənthəv ˌo‍ʊvɚɹˈiːʔn̩ æz a‍ɪm pˈʊɾɪŋ ˌɔn tˈuː mʌt‍ʃ wˈe‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-138.wav|a‍ɪ hæv sˌʌm ʌnfˈɔː‍ɹt‍ʃənət nˈuːz ˈʌ ðæt jʊ‍ɹ bˈæɡ ˌɪzənt ɡˌo‍ʊɪŋ tə bˈiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-214.wav|ˈiːstɚ hˈɑːlɪdˌe‍ɪ a‍ɪ hɐdbɪn wˈɜːkɪŋ wˈiːkɛndz ænd hæd d‍ʒˈʌst lˈɛft|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-192.wav|lˈa‍ɪfz d‍ʒˈʌst ˈɔːsʌm ɹˈa‍ɪt nˈa‍ʊ a‍ɪm hˈæpi|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-204.wav|ˈɔːlmo‍ʊst ˈɛvɹi nˈa‍ɪt sˈʌmθɪŋ kˈiːps dˈʌmpɪŋ ˌo‍ʊvɚ ma‍ɪ bˈɪɡ tɹˈæʃ kæn a‍ʊtdˈoː‍ɹz a‍ɪ kˈiːp wˈɑːt‍ʃɪŋ fɔːɹ ˈænɪmə‍lz bˌʌt ðə wˈe‍ɪ ɪts pɹˈɑːpt ˌʌp ˌɔn ɐ bˈoː‍ɹd a‍ɪ dˈo‍ʊnt sˈiː hˌa‍ʊ ɐn ˈænɪmə‍l kæn dˈuː ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-139.wav|æt ðə fjˈuːnɚɹə‍l əvə fɹˈɛnd ɐbˌa‍ʊt tˈuː zˈi‍əɹo‍ʊ jˈɪ‍ɹz ˈo‍ʊld hˌuː wʌz kˈɪld ɪn ɐ hˈɪt ænd ɹˈʌn mˈo‍ʊɾɚsˌa‍ɪkə‍l ˈæksɪdənt|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-170.wav|æt wˈɜːk a‍ɪ kˈɛpt ˌɔn hˈɪɹɪŋ pˈiːpə‍l lˈæfɪŋ bᵻhˈa‍ɪnd mˌiː wˌɛn a‍ɪ ɡɑːt tə ma‍ɪ dˈɛsk ma‍ɪ kˈo‍ʊwɜːkɚ pˈɔ‍ɪntᵻd ˈa‍ʊt ɐ pˈo‍ʊstɪd‍ʒ stˈæmp wʌz stˈʌk ˌɔn bˈæk ʌv ma‍ɪ hˈɛd|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-190.wav|sˌo‍ʊ wiːl sˈɛnd ɪt ænd wiːl ɡˈɪv juː hˌa‍ʊ ɐbˌa‍ʊt ɐ fɹˈiː jˈɪ‍ɹz sˈɜːvɪs|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-143.wav|a‍ɪ θˈɪŋk a‍ɪv nˈɛvɚ hˈɜːd ðæt mˈɛn wʊd tɹˈɪm ðɛɹ ˈa‍ɪbɹa‍ʊz ɑː‍ɹ juː kˈɪdɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-267.wav|dˈʊ‍ɹɹɪŋ sˈɛvənθ ɡɹˈe‍ɪd ˌa‍ʊɚ klˈæs mˈɑːbd ɐ fˈiːme‍ɪl tˈiːt‍ʃɚ sˌo‍ʊ bˈædli ðæt ʃiː hæd ɐ bɹˈe‍ɪk dˌa‍ʊn ænd wʌz hˈɑːspɪɾə‍lˌa‍ɪzd|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-307.wav|fˈɛɹ ɪnˈʌf|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-190.wav|a‍ɪ wʌz vˈɛɹi sˈæd wɛn a‍ɪ hˈɜːd ðæt ma‍ɪ bɹˈʌðɚ hæd fˈe‍ɪld ðə stˈændɚd ˈe‍ɪt ɛɡzˈæmz fɚðə θˈɜːd tˈa‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-356.wav|bɪkˈʌz ðɪ ˈo‍ʊnli ɹˈiːzən ðe‍ɪ kˈɛɹ ɪz bɪkˈʌz ðɪ ˌɪmɪɡɹˈe‍ɪʃən ˈɑːfɪsɚ kˈɛ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-130.wav|ˈɛvɹɪtˌa‍ɪm ɐ pɹˈɪɾi ɡˈɜːlz lˈʊks æt mˌiː ɪts lˈa‍ɪk a‍ɪ fɚɡˈɛt hˌa‍ʊ tə fˈʌŋkʃən|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-278.wav|wˈʌn tˈa‍ɪm wˌa‍ɪl a‍ɪ wʌz wˈe‍ɪkɪŋ ˌʌp ɪnðə mˈɪdə‍l ʌvðə nˈa‍ɪt a‍ɪ sˈɔː ɐ lˈɪɾə‍l ɡˈɜːl sˈɪɾɪŋ bᵻsˌa‍ɪd ma‍ɪ bˈɛd|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-230.wav|t‍ʃˈa‍ɪnə kænˈɑːt lˈɛt juː ɡˈɪv mˈoː‍ɹ lˈɛkt‍ʃɚz bɪkˈʌz juː ɑː‍ɹ nˈiːdᵻd ɪnðə spˈɛʃə‍lˌɪst klˈɪnɪks wiː ɑː‍ɹ sˌo‍ʊ bˈækwɚd ɪn mˈɛdəsən|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-243.wav|a‍ɪ dˈæmɪd‍ʒd ma‍ɪ kˈɑː‍ɹ jˈɛstɚdˌe‍ɪ a‍ɪɐm sˌo‍ʊ wˈʌɹid ɐbˌa‍ʊt hˌa‍ʊ mˈʌt‍ʃ ɪt wɪl kˈɔst tə ɹᵻpˈɛɹ ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-78.wav|ðɛ‍ɹ wɪl biː lˈe‍ɪɔf tə mˌiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-292.wav|wˌɛn ma‍ɪ ˈɛks bˈɔ‍ɪfɹɛnd θɹˈuː mˌiː ɚɹˈa‍ʊnd ðə dˈɔː‍ɹmz bɪkˈʌz a‍ɪ wʌz tˈɔːkɪŋ ɔnðə fˈo‍ʊn tʊ ɐnˈʌðɚ ɡˈa‍ɪ ʌv hˈuːm hiː wʌz d‍ʒˈɛləs ˈæftɚ wiː hæd ɐn ˈɑː‍ɹɡjuːmənt ɪnwˌɪt‍ʃ a‍ɪ θˈɔːt wiː bɹˈo‍ʊk ˈʌp|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-31.wav|wˌɛn ma‍ɪ dˈɔːɾɚ tˈo‍ʊld mˌiː ʃiː hæd nˈuːz fɔː‍ɹ mˌiː ˌo‍ʊvɚ ðə fˈo‍ʊn hɜː tˈo‍ʊn mˌe‍ɪd mˌiː sˌo‍ʊ ˌæpɹihˈɛnsɪv tˈɜːnz ˈa‍ʊt ʃiː d‍ʒˈʌst wˈɔntᵻd tə tˈɛl mˌiː ʃiː skɹˈæt‍ʃt ðə kˈɑː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-309.wav|a‍ɪ wʌz pɹˈɪɾi ɪmˈo‍ʊʃənə‍l lˈiːvɪŋ ma‍ɪ hˈo‍ʊmta‍ʊn wˈʌn zˈi‍əɹo‍ʊ jˈɪ‍ɹz ɐɡˈo‍ʊ wiː mˈuːvd əkɹˌɑːs kˈʌntɹi tʊ ɐ kəmplˈiːtli dˈɪfɹənt ˈɛɹi‍ə|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-264.wav|a‍ɪ wʌz hˈæpi wɛn æt dˈɪfɪkə‍lt tˈa‍ɪmz a‍ɪ kʊd fˈa‍ɪnd səpˈoː‍ɹt ɪn ma‍ɪ fɹˈɛnd ænd ma‍ɪ fiˈɑːnse‍ɪ a‍ɪ wʌz hˈæpi bɪkˈʌz ʌv ðɛ‍ɹ spˈɪɹɪt‍ʃˌuːə‍l ænd mˈɔːɹə‍l hˈɛlp wˌɪt‍ʃ ɡˈe‍ɪv mˌiː nˈuː pˈa‍ʊɚ tə stɹˈʌɡə‍l a‍ɪ wʌz hˈæpi ðˈɛn a‍ɪ fˈɛlt ɪɾ ɪn ma‍ɪ sˈo‍ʊl|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-235.wav|kˈɑːmɛnts fɹʌm ˈʌðɚ t‍ʃˈɪldɹən ˌɔn ma‍ɪ ˌælkəhˈɑːlɪk fˈɑːðɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-122.wav|a‍ɪ ɡɑːt ɐ fˈɛ‍ɹli lˈɑː‍ɹd‍ʒ ɐmˈa‍ʊnt ʌv ma‍ɪ tˈæksᵻz bˈæk|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-263.wav|a‍ɪ ɡɑːt ðɪs pˈiːtsə wɪð sˈɛvən tˈɑːpɪŋz ænd ˈɛkstɹə t‍ʃˈiːz ɪts hˈɛvən|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-88.wav|nˈa‍ɪs skɹˈɪpt|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-387.wav|bˌʌt lˈa‍ɪk hiː hæd ɐ bˈɛɾɚɹ a‍ɪdˈi‍ə jˈɛh juː ɡɑːt sˈʌmθɪŋ lˈa‍ɪk ðˈæt jˈɛh|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-264.wav|sˌo‍ʊ mˈʌni mˌe‍ɪkɪŋ sˈiːzən ɪt sˈa‍ʊndz lˈa‍ɪk ɪz ðætðɪ ˈo‍ʊnli fɹˈuːt ðæt ɪz ɡɹˈo‍ʊn ɪn mɪzˈʊ‍ɹɹi|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-213.wav|kˈænt θˈɪŋk ʌv ˌɛni|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-18.wav|wˌʌt wʊd juː lˈa‍ɪk ˌʌs tə dᵻlˈɪvɚɹ ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-158.wav|hˈɑː θˈæŋkfəli mˈo‍ʊst θˈɪŋz dˈiːl wɪð kɹˈɛdɪt kˈɑː‍ɹdz ænd t‍ʃˈɛks ðiːz dˈe‍ɪz a‍ɪ θˈɪŋk|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-51.wav|nˈo‍ʊ a‍ɪm d‍ʒˈʌst ɡˈɪvɪŋ juː mˈʌni ðə bˈæɡ ɪz ɡˈɔn ɪf ɪts nˌɑːt hˈɪ‍ɹ a‍ɪm ɹˈi‍əli sˈɑːɹi ðɛɹ ɪz nˈʌθɪŋ a‍ɪ kæn dˈuː bɪkˈʌz|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-321.wav|a‍ɪ nˈo‍ʊ bˌʌt jʊ‍ɹ nˌɑːt a‍ɪ mˈiːn jʊ‍ɹ nˌɑːt ɡˌo‍ʊɪŋ tə fɚɡˈɛt hˌɪm ðə pˈe‍ɪn wɪl ɡˌo‍ʊ ɐwˈe‍ɪ ᵻvˈɛnt‍ʃuːə‍li ænd ɔːɹ ɪt wɪl sʌbsˈa‍ɪd|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-387.wav|a‍ɪɐm hˌævɪŋ ɐ hˈɑː‍ɹd tˈa‍ɪm kˈɑːnsəntɹˌe‍ɪɾɪŋ ˌɔn wˈɜːk a‍ɪ lˈiːv fɔː‍ɹ ve‍ɪkˈe‍ɪʃən nˈɛkst wˈiːk a‍ɪ kˈænt wˈe‍ɪt tə ɡˈo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-122.wav|bˈɔːt ænd bˈɪlt ma‍ɪ fˈɜːst pˌiːsˈiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-227.wav|ɡˌo‍ʊɪŋ tə nˈuː jˈɔː‍ɹk wɪð sˌʌm fɹˈɛndz nˈɛkst wˈiːkɛnd a‍ɪv nˈɛvɚ bˌɪn|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-279.wav|mˈe‍ɪbiː fɚðə sˌʌm ʌvðə t‍ʃˈuːɪŋ ænd hiː dˈɛfɪnətli nˈiːdz ɐdˈɪʃənə‍l hˈa‍ʊstɹe‍ɪnɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-116.wav|ˈɔːlwe‍ɪz ænd ðɪs hˈæpənz ˈɔfən wɛn a‍ɪ duːnˌɑːt kˈiːp ma‍ɪ wˈɜːd|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-62.wav|ˈa‍ɪ wʌz hˈæpi wɛn lˈɛbɹɑːn sˈa‍ɪnd wɪððə lˈe‍ɪkɚz|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-160.wav|æt pɹˈa‍ɪmɚɹi skˈuːl wˌɛn a‍ɪ vˈɑːmɪɾᵻd ɪn fɹˈʌnt ʌv ˈʌðɚz ɪnðə mˈɪdə‍l əvə lˈɛsən|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-326.wav|a‍ɪɐm fˈa‍ɪnə‍li ɡˌɛɾɪŋ tə ɡˌo‍ʊ tə ðə hˈæɹi pˈɑːɾɚɹ ɐtɹˈækʃən æt jˌuːnɪvˈɜːsə‍l stˈuːdɪˌo‍ʊz a‍ɪ lˈʌv ðə mˈuːvɪz ænd kæn hˈɑː‍ɹdli wˈe‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-338.wav|a‍ɪ lˈʌv ma‍ɪ nˈuː kˈɑː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-15.wav|ˈo‍ʊ kɹˈɪs a‍ɪv bˌɪn ɹˈɛdi fɚɹə lˈɔŋ tˈa‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-88.wav|jˈʌp ænd ɪɾ ɪz kənsˈɪdɚd ðə hˈa‍ɪɪst lˈɛvə‍l ʌv kəmˈɜːʃə‍l θˈi‍əɾɚɹ ɪnðɪ ˈɪŋɡlɪʃ spˈiːkɪŋ wˈɜːld ðə lˈʌndənz wˈɛst ˈɛnd θˈi‍əɾɚ d‍ʒˈɔ‍ɪnz ðæt lˈiːɡ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-339.wav|wˌɛn ɐ tˈiːt‍ʃɚ tˈɛlz ɐ stˈoːɹi wˌɪt‍ʃ ˌɪzənt tɹˈuː ɪɾ ˈo‍ʊnli ɹᵻflˈɛkts hɪz wˈe‍ɪ ʌv ɪntˈɜːpɹɪɾɪŋ ɹɪˈælᵻɾi|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-105.wav|wˌɛn ma‍ɪ ɹˈɛd t‍ʃˈiːkt kˈɑːntɛnt t‍ʃˈa‍ɪld ɹˈʌnz tə mˈiːt mˌiː ɪnðə jˈɑː‍ɹd ʌvðə kˈɪndɚɡˌɑː‍ɹʔn̩ ænd ɡˈɪvz mˌiː ɐ mˈɔ‍ɪst kˈɪs ˌɔn ma‍ɪ t‍ʃˈiːk|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-148.wav|juː ɑː‍ɹ pɚsˈɪstəns a‍ɪ mˈiːn ðæts ɪmpˈoː‍ɹtənt ðˈæts|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-188.wav|a‍ɪ wʌz tɹˈa‍ɪɪŋ tə fˈa‍ɪnd ma‍ɪ sˈʌnz bˈæk tə skˈuːl səplˈa‍ɪz ma‍ɪsˈɛlf ˌo‍ʊvɚɹ ˈɔː‍ɹdɚɹɪŋ ðˌɛm fɹʌm skˈuːl ðe‍ɪ wˈɔntᵻd spəsˈɪfɪk bɹˈændz ænd a‍ɪ hæd ɐ hˈɑː‍ɹd tˈa‍ɪm fˈa‍ɪndɪŋ ðˌɛm|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-178.wav|ma‍ɪ nˈe‍ɪbɚz wɜː sˌo‍ʊ lˈa‍ʊd lˈæst nˈa‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-35.wav|ɹˈi‍əli dˈuː juː plˈe‍ɪ ɪn ˈe‍ɪso‍ʊʃə‍l ɔː‍ɹ ɹˌɛkɹiːˈe‍ɪʃənə‍l sˈɛɾɪŋ ɔːɹ ɪn ɐ lˈiːɡ ɔː‍ɹ tˈʊ‍ɹnəmənt|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-285.wav|ɐ stˈoː‍ɹm kˈe‍ɪm θɹuː ˈɜːlɪɚ ænd lˈa‍ɪtnɪŋ stɹˈʌk vˈɛɹi klˈo‍ʊs ba‍ɪ ænd ðə pˈa‍ʊɚ wɛnt ˈa‍ʊt a‍ɪ wʌz wˈʌɹid æz sˈʌmta‍ɪmz ðə pˈa‍ʊɚ kæn ɡˌo‍ʊ ˈa‍ʊt fɔː‍ɹ dˈe‍ɪz bˌʌt lˈʌkili ɪt kˈe‍ɪm bˈæk ˌɔn ɐn ˈa‍ʊɚ lˈe‍ɪɾɚ ðɪs tˈa‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-192.wav|sˈo‍ʊ ˈʌm ˈɛnɪwˌe‍ɪ dˈuː juː wˈɔnt tʊ ˈɔː‍ɹdɚ nˈa‍ʊ sˈo‍ʊ ˈʌm a‍ɪ mˈiːn|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-13.wav|ma‍ɪ fˈɑːðɚ kˈɔːld mˌiː ænd tˈo‍ʊld mˌiː ðæt ma‍ɪ mˈʌðɚ dɪsɐpɹˈuːvd ma‍ɪ bᵻhˈe‍ɪvjɚɹ ɪnðə wˈiːkɛnd ha‍ʊˈɛvɚ hiː dˈɪdnt tˈɛl mˌiː ðə diːtˈe‍ɪlz ænd lˈɛft mˌiː wɪð ʌnˈænsɚd kwˈɛst‍ʃənz|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-284.wav|ɐ jˈʌŋɡɚ ɡˈa‍ɪ ˈa‍ɪ jˈuːzd tə wˈɜːk wɪð pˈæst ɐwˈe‍ɪ ðɪs wˈiːk|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-234.wav|hˌævɪŋ tə stˈe‍ɪ ɪn ma‍ɪ ɐpˈɑː‍ɹtmənt ˈɔːl ðə tˈa‍ɪm dˈuː tə kˈɑːvɪd ˈa‍ɪ hæv ɐ pɹˌiːɛɡzˈɪstɪŋ kəndˈɪʃən ðæt pˌʊts mˌiː æt ɹˈɪsk ˈa‍ɪ fˈiːl ˈa‍ɪsəlˌe‍ɪɾᵻd æz ɐ ɹɪzˈʌlt ˈa‍ɪ nˈiːd sˈo‍ʊʃə‍l kˈɑːntækt tə fˈiːl bˈɛɾɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-279.wav|dˈʊ‍ɹɹɪŋ d‍ʒˈɪm klˈæs tədˈe‍ɪ bˌʌt pˈænts splˈɪt wˈa‍ɪd ˈo‍ʊpən ˈɛvɹɪwˌʌn ɪnðə klˈæs kʊd sˈiː ma‍ɪ ˌʌndɚwˈɛ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-239.wav|a‍ɪ hæd fˈɪ‍ɹ wɛn a‍ɪ wʌz lˈɛft ɐlˈo‍ʊn æt ðə bˈʌs dˈiːpo‍ʊ æt nˈa‍ɪt a‍ɪ hæd pɹˈɑːbləmz ʌv hˌa‍ʊ tə mˈuːv tə ðɪs plˈe‍ɪs|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-273.wav|dˈʊ‍ɹɹɪŋ ɐ mˈiːɾɪŋ a‍ɪ sˈɛd sˈʌmθɪŋ ɹˈɔŋ ænd ðɪ ˈʌðɚz lˈæft æt mˌiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-262.wav|tˈa‍ɪm ɪz sˈɛvən θˈɜːɾi sˈɪks wˌa‍ɪl ðə nˈʌmbɚɹ ɪz wˈʌn θˈa‍ʊzənd ˈe‍ɪt hˈʌndɹɪd ænd sˈɪks jʊ‍ɹ kˈiː ɪz ˈɑː‍ɹ θɹˈiː pˈiː wˈa‍ɪ ˈa‍ɪ tˈiː zˈi‍əɹo‍ʊ dˈiː ˈɛks|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-79.wav|ænd juː ˈækt‍ʃuːə‍li sˈɛd jˈɛs a‍ɪ kˈænt bᵻlˈiːv ɪt a‍ɪ nˈɛvɚ θˈɔːt juː wʊd ɡɛt mˈæɹid|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-121.wav|ʃˈʌt ˈʌp|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-81.wav|sˌʌm fɹˈɛndz ænd a‍ɪ wɜː kɹˈɔsɪŋ ɐ stɹˈiːt wɛn wˈʌn ʌv ma‍ɪ fɹˈɛndz wʌz sˈiːzd ba‍ɪ ɐ kˈɑː‍ɹ ænd θɹˈo‍ʊn ɐsˈa‍ɪd a‍ɪ hæd sˈiːn ðə kˈɑː‍ɹ kˈʌmɪŋ ɪn ˌa‍ʊɚ dᵻɹˈɛkʃən bˌʌt a‍ɪ dɪdnˌɑːt hæv ɪnˈʌf tˈa‍ɪm tə ɹˈiːt‍ʃ ænd pɹɪvˈɛnt ðɪ ˈæksɪdənt|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-203.wav|wˈɛl ʃˌæl wiː ˈɔːlwe‍ɪz wˈɔnt tə bˈɪkɚ ænd fˈa‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-330.wav|a‍ɪɐm nˌɑːt ʃˈʊ‍ɹ hˌa‍ʊ ðə lˈɔːz hæv t‍ʃˈe‍ɪnd‍ʒd bˌʌt ðə ɹˈiːzənz fɔː‍ɹ dᵻvˈoː‍ɹs kæn biː dˈuː tʊ ɪŋkəmpˌæɾəbˈɪlᵻɾi lˈæk ʌv ˌɪndᵻpˈɛndəns ɔː‍ɹ d‍ʒˈʌst ɐ bˈe‍ɪsɪk pˌɜːsənˈælᵻɾi klˈæʃ ɑː‍ɹ juː ɛŋɡˈe‍ɪd‍ʒd|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-307.wav|a‍ɪɐm ɹˈi‍əli hˈæpi wɪð hˌa‍ʊ ma‍ɪ lˈa‍ɪf ɪz ɡˌo‍ʊɪŋ ɹˈa‍ɪt nˈa‍ʊ nˌɑːt mˈɛni kəmplˈe‍ɪnts|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-4.wav|ɐlˈo‍ʊn wˌa‍ɪl fˈæmɪli wʌz æɾə pˈɑː‍ɹɾi wɛn sˈʌmwʌn ɹˈæmd ɐ kwˈɑːd ˌɪntʊ ðə ɡɚɹˈɑːʒ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-26.wav|wˌɛn a‍ɪ ɹᵻsˈiːvd ɐ bjˈuːɾifə‍l bˈɜːθde‍ɪ ɡˈɪft fɹʌm ma‍ɪ pˈɛɹənts|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-63.wav|sˌo‍ʊ fˈe‍ɪməs mˈɛn hɐvbɪn wɪððə bˈɪɡ ˈæpə‍l fɔː‍ɹ mˈɛni jˈɪ‍ɹz lˈa‍ɪk bˈæɹi lˈuːbɪn|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-324.wav|juː kˈænt wiː nˈiːd juː a‍ɪ nˈiːd juː|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-124.wav|bˌʌt bˈɪɡ pˈækɪt bˈɪɡ pˈækɪt ɪz nˈa‍ɪs|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-207.wav|ma‍ɪ fˈe‍ɪvɹɪt fˈɪʃ dˈa‍ɪd|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-313.wav|ma‍ɪ ɡɹˈændfɑːðɚ pˈæst ɐwˈe‍ɪ ænd wɛn a‍ɪ fˈa‍ʊnd ˈa‍ʊt ɪt hæd ɔːlɹˌɛdi bˌɪn sˈɛvɹə‍l wˈiːks ˈæftɚ ðə fjˈuːnɚɹə‍l hˈæpənd|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-348.wav|a‍ɪ wʌz sˌo‍ʊ ɛksˈa‍ɪɾᵻd wɛn a‍ɪ ɡɑːt ɐ pɹəmˈo‍ʊʃən|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-179.wav|wiː wɜːɹ ˈɔːl ɡˌo‍ʊɪŋ tˈe‍ɪk ɐ tɹˈɪp tə jˈʊ‍ɹɹəp juː nˈo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-111.wav|ma‍ɪ wˈa‍ɪf hɐz ˌa‍ʊɾəv tˈa‍ʊn fɚɹə kˈʌpə‍l wˈiːks ænd wiː d‍ʒˈʌst mˈuːvd tə ðɪs sˈɪɾi a‍ɪ fˈiːl sˌo‍ʊ bˈoː‍ɹd ænd hæv nˈo‍ʊwˈʌn tə hˈæŋ ˈa‍ʊt wɪð|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-225.wav|kˈuːl dˈɑːt dˈuː juː lˈa‍ɪk kɹˈiːm wɪð ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-55.wav|wˌɛn ma‍ɪ bˈɜːd kˈe‍ɪd‍ʒ dˈɪdnt kˈʌm ɪnðə mˈe‍ɪl tədˈe‍ɪ lˈa‍ɪk ɪt wʌz səpˈo‍ʊzd tuː|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-98.wav|bˌʌt juː dˈo‍ʊnt ˌʌndɚstˈænd a‍ɪ kænˈɑːt ɡɛt bˈæk ɪn lˈa‍ɪn bɪkˈʌz a‍ɪ hæv tə ɡˌo‍ʊ bˈæk tə wˈɜːk a‍ɪ wɪl ɡɛt fˈa‍ɪ‍ɚd ɪf a‍ɪ dˈo‍ʊnt lˈiːv hˈɪ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-281.wav|a‍ɪ kˈænt dˈuː ðˈæt|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-24.wav|ɐ fɹˈɛnd kˈe‍ɪm fɔː‍ɹ dˈɪnɚ wɪð mˌiː æt hˈo‍ʊm hɪz pˈɛɹənts ɑːɹ ˈɔː‍ɹdɪnˌɛɹi pˈiːpə‍l ma‍ɪ mˈʌðɚ ha‍ʊˈɛvɚ jˈuːzd ðə vˈɛɹi ɛkspˈɛnsɪv pˈoː‍ɹsɪlˌɪn dˈɪnɚ sˈɜːvɪs ænd ðə sˈɪlvɚ kˈʌtlɚɹi a‍ɪ fˈɛlt vˈɛɹi ɐʃˈe‍ɪmd|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-252.wav|juː nˈo‍ʊ ɪts lˈʌvli hˈɪ‍ɹ ðɪ ˈɛɹ ɪz swˈiːt|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-81.wav|ᵻlˈɛktɹɪk va‍ɪ‍əlˈɪnz wɪð sˈɑːlɪd bˈɑːdiz ænd pˌiːzo‍ʊlˈɛktɹɪk pˈɪkʌps ɑː‍ɹ jˈuːzd ɪn sˌʌm fˈɔː‍ɹmz ʌv ɹˈɑːk mjˈuːzɪk ænd d‍ʒˈæz fjˈuːʒən|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-15.wav|ɐ ɡɹˈuːp ʌv pˈɪd‍ʒənz wʌz stˈɔːkɪŋ mˌiː ðɪ ˈʌðɚ dˈe‍ɪ a‍ɪ wʌz tˈɛɹᵻfˌa‍ɪd ʌv ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-60.wav|a‍ɪ θˈɪŋk ɪts jˈuːʒuːə‍li pˈiːtsə dˈo‍ʊ bˌʌt a‍ɪv sˈiːn ɐ bˈɪɡ kˈʊki wɪð fɹˈuːt tˈɑːpɪŋz ɔː‍ɹ kˈændi ænd fɹˈɔstɪŋ fɔː‍ɹ sˈɔːs pˈiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-310.wav|ɡˌo‍ʊ ɡɛt ɪn ðˈæt sˌɜː sˌɜː ðɛɹˌɑː‍ɹ pˈiːpə‍l ɪn lˈa‍ɪn bᵻhˌa‍ɪnd juː juː nˈiːd|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-373.wav|a‍ɪɐm ɡˌo‍ʊɪŋ tə ɡˌo‍ʊ sˈiː ɐ bˈænd a‍ɪ hæv wˈɔntᵻd tə sˈiː fɚɹə lˈɔŋ tˈa‍ɪm a‍ɪ hæd tɹˈa‍ɪd ɪnðə pˈæst bˌʌt ɪt d‍ʒˈʌst hˈædənt wˈɜːkt ˈa‍ʊt|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-205.wav|ɪz ɪt nˌɪ‍ɹ ðɪ ˈɛmpa‍ɪ‍ɚ stˈe‍ɪt bˈɪldɪŋ a‍ɪ lˈa‍ɪk ðə bˈɪldɪŋz ðæt hæv ðə vjˈuːɪŋ dˈɛks stˈe‍ɪʔn̩ ˈa‍ɪlənd ɪz bjˈuːɾifə‍l|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-334.wav|a‍ɪ hæd ɐ dˈe‍ɪ wˌɛ‍ɹ ma‍ɪ ɡɹˈændfɑːðɚ ænd fˈɑːðɚ bˈo‍ʊθ dˈa‍ɪd ɪnðə sˈe‍ɪm dˈe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-302.wav|ma‍ɪ dˈɑːɡ pˈæst ɐwˈe‍ɪ ʌv bˈo‍ʊn kˈænsɚ ʃiː wʌz sˈʌt‍ʃ ɐ spˈɛʃə‍l dˈɑːɡ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-119.wav|wˈʌn tˈa‍ɪm wɛn a‍ɪ wʌz lˈɛɾɪŋ ma‍ɪ kˈæt a‍ʊtsˈa‍ɪd ɪt ɹˈæn ˈa‍ʊt ˌɪntʊ ðə stɹˈiːts ænd ɡɑːt ɹˈæn ˈo‍ʊvɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-95.wav|wiː nˈiːd wˈa‍ɪn fɔː‍ɹ tədˈe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-53.wav|ma‍ɪ sˈʌnz fˈɜːst bˈɜːθde‍ɪ ɪɾ ɪz kɹˈe‍ɪzi hˌa‍ʊ kwˈɪkli ɐ jˈɪ‍ɹ ɡo‍ʊz bˈa‍ɪ ænd a‍ɪ wʌz sˌo‍ʊ hˈæpi|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-132.wav|kæn juː d‍ʒˈʌst kæn a‍ɪ d‍ʒˈʌst ɡɛt ðə ɹˈa‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-49.wav|a‍ɪɐm hˈo‍ʊpɪŋ tə wˈɪn ðə lˈɑːɾɚɹi ðɪs wˈiːk|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-120.wav|ɡˌɛɾɪŋ ma‍ɪ ɐksˈɛptəns lˈɛɾɚ fɹʌm sˌiːˌe‍ɪˈɛl|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-32.wav|wˌa‍ɪ dˈo‍ʊnt wiː ɡˌo‍ʊ dˌa‍ʊn tə ðə pˈuːl ɪts nˌɑːt tˈuː fˈɑː‍ɹ fɹʌm hˈɪ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-21.wav|ɐ tˌiːvˈiː ʃˈo‍ʊ a‍ɪ lˈa‍ɪk ɪz ɡˌɛɾɪŋ ɐnˈʌðɚ sˈiːzən a‍ɪ wˈʌzn̩t ɛkspˈɛktɪŋ ɪt sˌo‍ʊ a‍ɪm pɹˈɪɾi hˈæpi|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-119.wav|nˈo‍ʊ ˈʌm lˈa‍ɪk a‍ɪ sˈɛd juː kæn fˈa‍ɪl ɐ klˈe‍ɪm ænd ˈʌ mˈe‍ɪbiː ɡɛt ɹˌiːɪmbˈɜːst fɔː‍ɹ mˈoː‍ɹ juː|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-294.wav|a‍ɪɐm ɔːlɹˌɛdi ʃˈɑːpɪŋ fɔː‍ɹ kɹˈɪsməs ɪts ma‍ɪ fˈe‍ɪvɹɪt tˈa‍ɪm ʌvðə jˈɪ‍ɹ ɪt mˌe‍ɪks mˌiː fˈiːl sˌo‍ʊ hˈæpi|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-156.wav|kˈʌm hˈɪ‍ɹ dˈɑː‍ɹlɪŋ kˈɪs mˌiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-169.wav|dˈuː juː wˈɔnt tə bˈa‍ɪ mˌiː sˌʌm mˈe‍ɪs fɔː‍ɹ mˈa‍ɪ juː nˈo‍ʊ ɡˌo‍ʊɪŋ ɐwˈe‍ɪ pɹˈɛzənt|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-262.wav|wˌɛn a‍ɪ wʌz sˈɪks jˈɪ‍ɹz ˈo‍ʊld wiː wɜːɹ ˌɔn hˈɑːlɪdˌe‍ɪ ɪn fɹˈæns ðɛ‍ɹwˌʌz vˈɛɹi hˈɛvi wˈɛðɚ ðˈɛn|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-296.wav|wˌɛn ðə bˈæŋk lˈɛt mˌiː bˈɑːɹo‍ʊ sˌʌm mˈʌni ðɪs wˈɪntɚ ˈæftɚ ma‍ɪ ɡɹˈænt wʌz spˈɛnt|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-322.wav|a‍ɪɐm ɛkspˈɛktɪŋ tə ɡɛt ɐ bˈɪɡ bˈo‍ʊnəs a‍ɪ hˈo‍ʊp ɪt hˈæpənz|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-318.wav|a‍ɪ wˈɔːkt hˈo‍ʊm wˈʌn nˈa‍ɪt a‍ɪ kˈɔːt ma‍ɪ wˈa‍ɪf slˈiːpɪŋ wɪð ma‍ɪ bˈɛst fɹˈɛnd|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-64.wav|ʃiː dˈʌmpt mˌiː mˈʌnθs ɐɡˈo‍ʊ bˌʌt a‍ɪ kˈænt ɡɛt ˈo‍ʊvɚ hɜː ˈʌðɚ wˈɪmɪn d‍ʒˈʌst dˈo‍ʊnt ɐpˈiːl tə mˌiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-289.wav|a‍ɪ hæv ɐ kˈo‍ʊ wˈɜːkɚ ðæt kˈiːps ɡˌo‍ʊɪŋ bᵻhˌa‍ɪnd ma‍ɪ bˈæk ænd tɹˈa‍ɪɪŋ tə ɡɛt θˈɪŋz dˈʌn wɪðˌa‍ʊt mˌiː nˈo‍ʊɪŋ ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-112.wav|ˈa‍ɪ hˈe‍ɪt wɛn a‍ɪm smˈo‍ʊkɪŋ ɐ sˌɪɡɚɹˈɛt ænd ðɪ ˈæʃ dɹˈɑːps ɪn ma‍ɪ wˈɜːk pˈænts ænd lˈiːvz ɐ stˈe‍ɪn ɪɾ ɪz ˈiːzi tə ɡɛt ˈɔf bˌʌt ˈa‍ɪ hæv tə wˈe‍ɪt tˈɪl ˈa‍ɪ ɡɛt hˈo‍ʊm|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-194.wav|ma‍ɪ bɹˈʌðɚɹ ɪz ɡˌɛɾɪŋ ˌa‍ʊɾəv d‍ʒˈe‍ɪl nˈɛkst wˈiːk a‍ɪm ɐfɹˈe‍ɪd ðæt hiː nˈo‍ʊz ðæt a‍ɪm ðə wˈʌn ðæt tˈɜːnd hˌɪm ˈɪn|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-35.wav|a‍ɪ wʌz mˈuːvɪŋ sˌʌm fˈɜːnɪt‍ʃɚ ænd ˈɔːl əvə sˈʌdən ɪt fˈɛl ɐpˈɑː‍ɹt a‍ɪ ɡˈɛs ðə fˈɜːnɪt‍ʃɚ wʌz mˌe‍ɪd ˌa‍ʊɾəv t‍ʃˈiːp wˈʊd a‍ɪ wʌz sˌo‍ʊ tˈɪkt ˈɔf wɛn ðæt hˈæpənd|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-223.wav|a‍ɪ lˈa‍ɪk tə dɹˈɔː dɹˈɔːɪŋ ɪz ɐn ˈɑː‍ɹt tə pˌʊt jʊ‍ɹ θˈɔːts ˌɔn pˈe‍ɪpɚ jˈuːzɪŋ pˈɛnsə‍l pˈɛn ɔːɹ ˈʌðɚ θˈɪŋz|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-289.wav|sˌo‍ʊ ˈɔːl ɹˈa‍ɪt ðˈɛn a‍ɪl d‍ʒˈʌst ɡˌo‍ʊ ɐhˈɛd wɪð ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-229.wav|wˈʌn dˈe‍ɪ a‍ɪ hæd ɐn ɐpˈɔ‍ɪntmənt wɪð ma‍ɪ bˈɔ‍ɪfɹɛnd wˌɪt‍ʃ a‍ɪ hæd ɑːbd‍ʒˈɛktᵻd tʊ ɪnðə bɪɡˈɪnɪŋ ha‍ʊˈɛvɚ hiː vˈɪzɪɾᵻd mˌiː ænd kənvˈɪnst mˌiː tə kˈʌm ðə dˈe‍ɪ ʌvðɪ ɐpˈɔ‍ɪntmənt a‍ɪ hædtə wˈe‍ɪt fɔː‍ɹ hˌɪm fɔːɹ ˌo‍ʊvɚɹ ɐn ˈa‍ʊɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-191.wav|bˌiːɪŋ ɪnsˈʌltᵻd ɪn pˈʌblɪk|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-75.wav|ænd nˈa‍ʊ jʊ‍ɹ ɡˌɛɾɪŋ mˈæɹid|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-228.wav|ɡˌo‍ʊɪŋ tə pˈænəmˌɑː sˈɪɾi ɪn ɐ fjˈuː wˈiːks kˈænt wˈe‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-244.wav|tɹˈuː a‍ɪ wʌzɐ fˈæn bˈæk ɪn tˈuː zˈi‍əɹo‍ʊ zˈi‍əɹo‍ʊ wˌʌn ɑː‍ɹ ðɛɹ ˌɛni ˈʌðɚ pˈʌŋk bˈændz ðæt juː nˈo‍ʊ ʌv ɔː‍ɹ lˈa‍ɪk|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-347.wav|a‍ɪɐm ɡˌo‍ʊɪŋ ˌɔn ɐ tɹˈɪp wɪð ma‍ɪ fˈæmɪli sˈuːn a‍ɪɐm ɹˈi‍əli lˈʊkɪŋ fˈɔː‍ɹwɚd tʊ ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-248.wav|wˌa‍ɪ ðə sˈæd fˈe‍ɪs|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-79.wav|nˈo‍ʊ ɪts ɹˈɔŋ dᵻɹˈɛkʃən|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-61.wav|wˌɛn a‍ɪ sˈɔː ðæt a‍ɪ hæd pˈæst ðə jˌuːnɪvˈɜːsᵻɾi ˈɛntɹəns ɛɡzˈæm ɪt mˌe‍ɪd mˌiː fɚɡˈɛt ˈɔːl ma‍ɪ pɹˈɑːbləmz|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-153.wav|d‍ʒˈɔ‍ɪ ʌv ɡˈɪvɪŋ bˈɜːθ ænd ʌv ʃˈɛɹɪŋ ðæt d‍ʒˈɔ‍ɪ wɪð ma‍ɪ hˈʌsbənd mˈo‍ʊmənts ʌv kəmplˈiːt hˈæpɪnəs ænd fˈiːlɪŋz ʌv sˈo‍ʊ mˌʌt‍ʃ lˈʌv|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-13.wav|a‍ɪm sˈʌt‍ʃ ɐ kˈɪd sˈʌmta‍ɪmz ˈa‍ɪ lˈʌv ðə ʃˈo‍ʊ ba‍ɪ tɹˈe‍ɪ pˈɑː‍ɹkɚ ænd mˈæt stˈo‍ʊn sˈa‍ʊθ pˈɑː‍ɹk dˈɑːt dˈuː juː lˈa‍ɪk ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-329.wav|a‍ɪ dˈo‍ʊnt lˈa‍ɪk ˈæpə‍l pɹˈɑːdʌkts a‍ɪm ɐ sˈæmsʌŋ fˈæn|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-87.wav|jˈe‍ɪ smˈɔːlɚ dˈɑːɡz hæv bˈɛɾɚ sˌɜːkjʊlˈe‍ɪʃən ænd lˈɛs hˈɛlθ ænd d‍ʒˈɔ‍ɪnt pɹˈɑːbləmz sˌo‍ʊ ðe‍ɪ lˈɪv lˈɔŋɡɚ lˈa‍ɪvz|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-248.wav|ma‍ɪ hˈʌsbənd ˈe‍ɪt ðə lˈæst tˈuː ʌvðə bɹˈɛd ænd dˈɪdnt tˈɛl mˌiː hiː ɹˈuːɪnd ma‍ɪ ɛntˈa‍ɪ‍ɚ dˈɪnɚ plˈæn|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-81.wav|jˈɛh a‍ɪ ˌʌndɚstˈænd bˈʌt|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-127.wav|a‍ɪ hæv ɡˈɪvən ˌʌp ˌɔn fˈa‍ɪndɪŋ lˈʌv a‍ɪ hæv lˈʊkt ˈɛvɹɪwˌɛ‍ɹ bˌʌt d‍ʒˈʌst kˈænt fˈa‍ɪnd ma‍ɪ sˈo‍ʊlme‍ɪt ɡˈɛs a‍ɪ wɪl biː ba‍ɪ ma‍ɪsˈɛlf fɚɹə lˈɔŋ tˈa‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-213.wav|ɡˌo‍ʊɪŋ fˈɪʃɪŋ ðɪs wˈiːkɛnd|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-246.wav|ˈʌ lˈa‍ɪk ɐn ˈa‍ʊɚ ænd ɐ hˈæf ɐɡˈo‍ʊ a‍ɪ tˈɔːkt tə sˈʌmbɑːdi hˌuː wʌz stˈændɪŋ ˈa‍ʊt ðɛ‍ɹ ænd ðe‍ɪ sˈɛd wˈe‍ɪt sˈʌmta‍ɪmz lˈa‍ɪk ɹˈændəm bˈʌt pˈiːsᵻz kˈʌm ˈa‍ʊt lˈe‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-178.wav|a‍ɪ hæv hˈɜːd ðe‍ɪ dˈuː ðæt bᵻfˈoː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-163.wav|æt skˈuːl a‍ɪ dɪdnˌɑːt tˈɛl ðə tˈiːt‍ʃɚ ðˌɐɾɪt wʌz mˌiː hˌuː hæd lˈæft ænd ʃiː pˈʌnɪʃt ðɪ ɛntˈa‍ɪ‍ɚ klˈæs ba‍ɪ mˌe‍ɪkɪŋ ðˌɛm stˈe‍ɪ bᵻhˌa‍ɪnd fɔː‍ɹ wˈʌn ˈa‍ʊɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-291.wav|ðɛɹˌɑː‍ɹ sˌo‍ʊ mˈɛni dˈɪfɹənt fˈɔː‍ɹmz ʌv ɡlˈæsᵻz ðe‍ɪ hæv sˌo‍ʊ mˈɛni jˈuːsᵻz|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-177.wav|ma‍ɪ tˈuː dˈɔːɾɚz mˌe‍ɪk mˌiː ɐ vˈɛɹi hˈæpi mˈæn|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-157.wav|ɐtwˈʌns|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-273.wav|wˌɛn ma‍ɪ kˈɪdz ɑː‍ɹ tˈuː kwˈa‍ɪ‍ət|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-99.wav|jˈɛs a‍ɪ dˈɪd zˈiːbɹəz wɜː ðɪ ˈo‍ʊnli wˈʌnz ðæt kˈe‍ɪm ˈʌp a‍ɪ wʌz ˌɔn ɐ kɹˈuːz ʃˈɪp ðæt tˈʊ‍ɹd dˌa‍ʊn ˈæfɹɪkə|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-236.wav|ɡˌo‍ʊɪŋ ˌʌp tə pˈa‍ɪks pˈiːk ɪn ɐ fjˈuː wˈiːks fɚðə fˈɜːst tˈa‍ɪm sˈɪns mˈuːvɪŋ tə kˌɑːlɚɹˈɑːdo‍ʊ ˌo‍ʊvɚ wˈʌn fˈoː‍ɹ kˈe‍ɪ fˈiːt ʌv ˈɔːsʌmnəs|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-295.wav|ðə kəmplˈiːʃən dˈe‍ɪt wɪl biː d‍ʒuːlˈa‍ɪ fˈɜːst tˈuː θˈa‍ʊzənd sˈɛvən|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-133.wav|a‍ɪm səpˈo‍ʊzd tə vˈɪzɪt ma‍ɪ sˈɪstɚz fˈæmɪli fɔː‍ɹ θˈæŋksɡɪvɪŋ ðɪs jˈɪ‍ɹ bˌʌt a‍ɪm nˌɑːt ɹˈi‍əli lˈʊkɪŋ fˈɔː‍ɹwɚd tʊ ɪt wiː hˈævənt ɡˈɑːʔn̩ ɐlˈɔŋ ˌo‍ʊvɚ ðə pˈæst sˈɛvɹə‍l jˈɪ‍ɹz|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-231.wav|t‍ʃˈa‍ɪnə nˌɑːt dˌuːɪŋ wˈɛl ɪnðɪ ˈe‍ɪʒən əlˈɪmpɪk ɡˈe‍ɪmz|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-231.wav|jˈɛs a‍ɪ lˈʌv kˈɑːntækt lˈɛnzᵻz mˈoː‍ɹ ðɐn ɡlˈæsᵻz ðe‍ɪ ɑː‍ɹ ðə bˈɛst|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-331.wav|ma‍ɪ fɹˈɛndz sˈiːm tə hæv tʊ ʌpɡɹˈe‍ɪd ðɛɹ ˈændɹɔ‍ɪdz ˈɛvɹi jˈɪ‍ɹ ɔː‍ɹ sˈo‍ʊ ðe‍ɪ d‍ʒˈʌst ɡɛt ɹˈiːəl slˈo‍ʊ ænd lˈuːz fˌʌŋkʃənˈælᵻɾi ˈa‍ɪ dˈo‍ʊnt θˈɪŋk ˈa‍ɪ kʊd ɡˈɪv ˌʌp ðɪ ˌa‍ɪˌo‍ʊˈɛs|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-192.wav|bˌiːɪŋ pˈænts æt ðə bˈɑː‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-135.wav|wˈo‍ʊ ˈa‍ɪ wˈʌzn̩t ˈiːvən bˈɔː‍ɹn dˈuː juː nˈo‍ʊ hˌuː plˈe‍ɪd ɪn ðɪs mˈuːv|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-115.wav|a‍ɪ hɐvbɪn tɹˈævəlɪŋ fɔːɹ ˌo‍ʊvɚɹ ɐ mˈʌnθ nˈa‍ʊ sˈo‍ʊlo‍ʊ ðə nˈuː plˈe‍ɪs a‍ɪɐm ɪn ɪz ˈɛmpti ænd a‍ɪ hæv nˈo‍ʊwˈʌn tə tˈɔːk tuː a‍ɪ mˈɪs ma‍ɪ fɹˈɛndz|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-108.wav|jˈɛs ˈɔːl ðæt stˈʌf ˈiːvən ðə fˈe‍ɪk wˈɜːmz ðæt hæv stˈɪŋki d‍ʒˈuːs ɪnðə bˈæɡ wɪð ðˌɛm jˈʌk a‍ɪ dˈo‍ʊnt ɐ lˈɑːt bˌʌt əkˈe‍ɪʒənə‍li ɪnðə pˈɑːnd bᵻhˌa‍ɪnd ma‍ɪ hˈa‍ʊs|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-147.wav|sˈɜːʔn̩li juː mˈʌst wɪ‍ɹ fˈɪɡjɚz ʌv fˈʌn ɔːlɹˈa‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-95.wav|hˈʌ ɑː‍ɹ juː kˈo‍ʊld dˈuː juː wˈɔnt ma‍ɪ d‍ʒˈækɪt nˈo‍ʊ juː nˈo‍ʊ wiː ʃˌʊdəv bɹˈɔːt ðə blˈæŋkɪt ˌa‍ʊɚ blˈæŋkɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-332.wav|ænd jʊ‍ɹ ɡˌənə hæv tə ɡˌo‍ʊ wˈe‍ɪt ɐɡˈɛn bɪkˈʌz ɪts ðə lˈa‍ɪn juː nˈiːd|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-5.wav|jˈɛs ɪɾ ɪz dˌa‍ʊn ðˈɛ‍ɹ æt ðɪ ˈɛnd ʌvðə ɹˈo‍ʊd nˈɛkst tə ðə sˈuːpɚmˌɑː‍ɹkɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-41.wav|wˌɛn ma‍ɪ bˈɔ‍ɪfɹɛnd ænd a‍ɪ ɛkspˈi‍əɹɪəns sˈʌmθɪŋ nˈa‍ɪs ɔː‍ɹ wɛn wiː hæv mˌe‍ɪd ɐ nˈa‍ɪs wˈɔːk təɡˈɛðɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-363.wav|a‍ɪ ɡɛt fjˈʊ‍ɹɹi‍əs wɛn a‍ɪ sˈiː pˌɑːlɪtˈɪʃənz ˈɑː‍ɹɡjuː bᵻtwˌiːn ðɛmsˈɛlvz|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-94.wav|a‍ɪ lˈɔst ma‍ɪ d‍ʒˈɑːb fˈoː‍ɹ mˈʌnθ ɐɡˈo‍ʊ ænd a‍ɪɐm ɹˈʌnɪŋ ˌa‍ʊɾəv mˈʌni|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-349.wav|sˈʌmta‍ɪmz ɹᵻkˈoː‍ɹdɪŋ ˌɛnd‍ʒɪnˈɪ‍ɹz mˌe‍ɪk ɐn ˌɪnstɹəmˈɛntə‍l vˈɜːʒən əvɚ ɹᵻkˈoː‍ɹdɪŋ tə jˈuːz fɔː‍ɹ kˌæɹɪˈo‍ʊki|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-294.wav|tˈe‍ɪkɪŋ ɐ tɹˈɪp tə kɹˈɑːkəkˌa‍ɪl kˈʌntɹi a‍ɪ fˈɛl ˌa‍ʊɾəv ðə bˈo‍ʊt ænd wʌz mˈo‍ʊɾᵻvˌe‍ɪɾᵻd ba‍ɪ fˈɪɹ ʌv bˌiːɪŋ ˈiːʔn̩ tə pɚfˈɔː‍ɹm ɡɹˈe‍ɪt swˈɪmɪŋ fˈiːts|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-148.wav|ɪf ðɛ‍ɹz ˈɛnɪθˌɪŋ a‍ɪ kæn dˈuː təbi ðˈɛ‍ɹ fɔː‍ɹ juː|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-96.wav|ɪɾ ɪz ɐ vˈɛɹi ɡˈʊd ɹˈiːd ɪɾ ɪz ɐ nˈɑːvə‍l|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-239.wav|a‍ɪ wˈo‍ʊk ˌʌp ðɪs mˈɔː‍ɹnɪŋ tə fˈa‍ɪnd ðæt ma‍ɪ wˈɛl tɹˈe‍ɪnd dˈɑːɡ pˈuːpt ɔnðə kˈɑː‍ɹpɪt sˈʌmta‍ɪm ɪnðə nˈa‍ɪt hiː mˈʌstɐv ɹˈi‍əli hædtə ɡˈo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-151.wav|æt dˈɪnɚ ðɪ ˈʌðɚ dˈe‍ɪ a‍ɪ spˈɪld ɐ hˈo‍ʊl ɡlˈæs ʌv wˈɔːɾɚɹ ˈɔːl ˌo‍ʊvɚ ðə hˈo‍ʊl tˈe‍ɪbə‍l ænd ˌɔn ma‍ɪsˈɛlf ðə hˈo‍ʊl ɹˈɛstɹɑːnt lˈʊkt ˈo‍ʊvɚɹ æt mˌiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-48.wav|ˈɑː ˈɛnɪwˌe‍ɪz sˌo‍ʊ ʃiː tˈʊk ðə ɹˈɪŋ ænd ʃiː ɡˈo‍ʊz ɪz ðɪs ɹˈiːəl sˌo‍ʊ a‍ɪ wʌz lˈa‍ɪk ʌv kˈoː‍ɹs|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-109.wav|bˈiːt‍ʃ ve‍ɪkˈe‍ɪʃən kˈʌmɪŋ ˈʌp|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-329.wav|nˈa‍ʊ lˈɪsən|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-87.wav|ˈæŋʃəs ɐwˈe‍ɪɾɪŋ sˈʌn tə stˈɑː‍ɹt kˈɑːlɪd‍ʒ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-97.wav|a‍ɪ lˈɔst ma‍ɪ wˈɜːk a‍ɪdˈiː kˈɑː‍ɹd jˈɛstɚdˌe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-59.wav|ðə t‍ʃˈɪkɪn nˈʌɡɪt ɪz mˌe‍ɪd ʌv ðæt pˈɪŋk slˈa‍ɪm ðˌo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-301.wav|a‍ɪɐm kˈɜːɹəntli ɡˌo‍ʊɪŋ θɹuː ɐ dᵻvˈoː‍ɹs fɹʌm ɐn ɐbjˈuːsɪv lˈa‍ɪɪŋ nˈɑː‍ɹsɪsˌɪst hiː hɐz tˈe‍ɪkən ma‍ɪ kˈɪdz fɹʌm mˌiː ba‍ɪ mˌe‍ɪkɪŋ fˈɔls klˈe‍ɪmz a‍ɪ hˈævənt sˈiːn ðˌɛm ɪn mˈʌnθs ma‍ɪ dˈɔːɾɚɹ ɪz fˈoː‍ɹ ænd ma‍ɪ sˈʌn ɪz tˈuː a‍ɪ mˈɪs ðˌɛm sˈo‍ʊ mˌʌt‍ʃ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-295.wav|nˈo‍ʊ juː dˈo‍ʊnt a‍ɪm ɐ pɹˈɪɾi tˈʌf ɡˈa‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-76.wav|a‍ɪ d‍ʒˈʌst|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-246.wav|dᵻfˈɛnsləs ænd hˈɜːt ænd tˈo‍ʊld ðˌɛm ðæt a‍ɪm ˈɔːlwe‍ɪz dˌuːɪŋ ðˈæt|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-328.wav|nˈo‍ʊ bˌʌt ɪt sˈiːmz lˈa‍ɪk ɐ ɡˈʊd ˈɑːpʃən mˈo‍ʊst mˈɛdɪkə‍l skˈuːlz ˈɔːlso‍ʊ kˈæɹi ˈa‍ʊt ɹᵻsˈɜːt‍ʃ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-188.wav|wˈa‍ʊ nˈo‍ʊ wˈe‍ɪ jʊ‍ɹ sˌo‍ʊ lˈʌki wˌɪt‍ʃ plˈe‍ɪsᵻz dˈɪd juː sˈiː a‍ɪm ʃˈʊɹ ɪt wʌz sˌo‍ʊ kɹˈa‍ʊdᵻd kənsˈɪdɚɹɪŋ ɪts ðə mˈo‍ʊst pˈɑːpjʊləs mˌɛtɹəpˈɑːlɪtən ˈɛɹi‍ə ɪnðə wˈɜːld|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-226.wav|t‍ʃˈiːɾɪŋ ˌɔn ma‍ɪ wˈa‍ɪf|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-202.wav|ðə kˈɑːps wɜː lˈʊkɪŋ fɔː‍ɹ ma‍ɪ bɹˈʌðɚ jˈɛstɚdˌe‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-189.wav|a‍ɪ sˈiːm təbi fˈe‍ɪlɪŋ ma‍ɪ sˈiːnjɚ pɹˈɑːd‍ʒɛkt ba‍ɪ nˈo‍ʊ fˈɔlt ʌv mˈa‍ɪn ɔː‍ɹ vˈɛɹi lˈɪɾə‍l fˈɔlt ʌv mˈa‍ɪn ænd pɹəfˈɛsɚz duːnˌɑːt wˈɔnt tə hˈɪɹ ɐbˈa‍ʊt ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-286.wav|a‍ɪ ɹˈi‍əli duːnˌɑːt lˈa‍ɪk wˈɔːɾɚ a‍ɪ kˈænt swˈɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-80.wav|ɐbˌa‍ʊt swˈiːdənz ˈɑː‍ɹmz ˈɛkspoː‍ɹts|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-218.wav|a‍ɪ wʊd lˈʌv tə vˈɪzɪt tˈo‍ʊkɪˌo‍ʊ wˈʌn ʌv ma‍ɪ klˈo‍ʊsɪst fɹˈɛndz ɪz ʌv d‍ʒˌæpənˈiːz dᵻsˈɛnt ænd ʃiːz tˈo‍ʊld mˌiː sˈo‍ʊ mˌʌt‍ʃ ɐbˌa‍ʊt d‍ʒəpˈæn dˈuː juː nˈo‍ʊ ðə kˈʌntɹi æɾ ˈɔːl|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-74.wav|ænd ma‍ɪ mˈɑːm wʌz lˈa‍ɪk nˈæɾɐli nˈæɾɐli ˈɪts juː nˈo‍ʊ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-27.wav|a‍ɪ hædtə tˈɜːmᵻnˌe‍ɪt ɐ tɹˈe‍ɪnɪŋ bɪkˈʌz a‍ɪ wˈʌzn̩t sˈuːɾᵻd fɔːɹ ɪt a‍ɪ wʌz vˈɛɹi sˈæd ɐbˌa‍ʊt ðˈɪs bɪkˈʌz a‍ɪ wʌz vˈɛɹi mˈʌt‍ʃ wˈɔntᵻd tə fˈɪnɪʃ ðæt tɹˈe‍ɪnɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-68.wav|wˌɛn a‍ɪ ɹᵻsˈiːvd ðə nˈuːz ðæt ma‍ɪ ˈɪnlɔːz hæd pˈæst ɐwˈe‍ɪ a‍ɪ dᵻpˈɛndᵻd hˈɛvili ˌɔn ðˌɛm fɔː‍ɹ ðɛ‍ɹ ɡˈa‍ɪdəns ænd ðə ɹˈʌnɪŋ ʌv ðɛ‍ɹ dˈɔːɾɚz bˈɪznəs|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-203.wav|a‍ɪɐm ˈɔːlso‍ʊ ɐ hjˈuːd‍ʒ fˈæn fɔː‍ɹ ðɪs wˈɜːk|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-115.wav|ɪt wʌz ma‍ɪ fˈɜːst dˈe‍ɪ æt wˈɜːk tˈiːt‍ʃɪŋ hˈa‍ɪ skˈuːl kˈɪdz ænd ma‍ɪ ˈo‍ʊnli ɡˈo‍ʊl wʌz nˌɑːt tə mˌe‍ɪk ɐ fˈuːl ʌv ma‍ɪsˈɛlf sˌo‍ʊ a‍ɪ ʌv kˈoː‍ɹs spˈɛlt tˈuː wˈɜːdz ɹˈɔŋ ænd tɹˈɪpt ˌo‍ʊvɚ ma‍ɪ stˈuːl|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-324.wav|wˌɛn ɡˌo‍ʊɪŋ ˈa‍ʊt a‍ɪɐm θɹˈɛʔn̩d ɹˈɛɡjʊlɚli ba‍ɪ tˈuː pˈʌŋkɡɜːlz|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-143.wav|kˈænt wˈe‍ɪt fɔː‍ɹ fˈʊtbɔːl sˈiːzən tə stˈɑː‍ɹt ˌʌp sˈuːn|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-174.wav|a‍ɪ dˈo‍ʊnt ˌʌndɚstˈænd juː dˈuː ˈa‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-50.wav|wˌɛn a‍ɪ θˈɔːt ðæt ma‍ɪ hˈa‍ɪ skˈuːl lˈʌv ænd a‍ɪ hæd ɐ mjˈuːt‍ʃuːə‍l ɪmˈo‍ʊʃən|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-83.wav|ɐ hˈa‍ɪbɹɪd ɪz ɐ vˈi‍əkə‍l ðæt jˈuːzᵻz tˈuː ɔː‍ɹ mˈoː‍ɹ dɪstˈɪŋkt tˈa‍ɪps ʌv pˈa‍ʊɚ hæv juː ˈɛvɚ dɹˈɪvən ɐ hˈa‍ɪbɹɪd|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-179.wav|a‍ɪ hæv ɐ lˈɑːt ʌv hˈo‍ʊmwɜːk ænd wˈɜːk ænd θˈɪŋkɪŋ ʌvðə fjˈuːt‍ʃɚɹ ɪz vˈɛɹi stɹˈɛsfə‍l a‍ɪɐm nˌɑːt ʃˈʊ‍ɹ hˌa‍ʊ tə plˈæn ˈɔːl ma‍ɪ wˈɜːk ænd hˈændə‍l ˈɛvɹɪθˌɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-86.wav|wˌʌt kˈa‍ɪnd ʌv kˈɑːɹ ɪz ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-326.wav|fˈa‍ʊnd ˈa‍ʊt ðætðə ɡˈɜːl a‍ɪ lˈʌv lˈʌvz mˌiː tˈuː|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-1.wav|fˈa‍ɪv dˈe‍ɪz lˈɛft|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-63.wav|æm a‍ɪ ɪn ˈɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-59.wav|lˈa‍ɪk a‍ɪ fˈiːl lˈa‍ɪk ma‍ɪ hˈo‍ʊl lˈa‍ɪf a‍ɪv bˌɪn d‍ʒˈʌst stˈændɪŋ ˌɔn ðɪs bˈiːt‍ʃ wɪð ma‍ɪ hˈændz klˈæspt wˈe‍ɪɾɪŋ fɔː‍ɹ ðiːz fˈɪʃ tə ʃˈo‍ʊ ˌʌp ænd ðiːz fˈɪʃ nˈɛvɚ ʃˈo‍ʊ ˈʌp|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-149.wav|t‍ʃˈiːp ɪz ɛɡzˈæktli wʌt a‍ɪ nˈiːd bɪkˈʌz a‍ɪ hæv nˈo‍ʊ mˈʌni æɾ ˈɔːl|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-42.wav|a‍ɪ wʌz æɾə bˈe‍ɪsbɔːl ɡˈe‍ɪm ænd ðɪs ɡˈa‍ɪ hˈɛkə‍ld ɐ kˈɪd ɐn ˈa‍ɪ ɡɑːt ˌɪntʊ ɐn ˈɑː‍ɹɡjuːmənt wɪð a‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-81.wav|sˈɜː plˈiːz dˈo‍ʊnt wˈe‍ɪst ma‍ɪ tˈa‍ɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-381.wav|θˈæŋks bˌʌt a‍ɪ kˌʊdənt ˈiːt ɐnˈʌðɚ bˈa‍ɪt a‍ɪm ɹˈi‍əli fˈʊl|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-174.wav|bˈæk ɪn skˈuːl wˌɛn a‍ɪ wʌz plˈe‍ɪɪŋ sˈɑːkɚ wɪð ma‍ɪ fɹˈɛndz a‍ɪ ˌæksɪdˈɛntə‍li tˈækə‍ld ma‍ɪ fɹˈɛnd hiː wʌz vˈɛɹi ˈæŋɡɹi ænd a‍ɪ fˈɛlt ɡˈɪlti|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-299.wav|sˈɜː juː kəmplˈiːtli fˈɪld ðɪs ˈa‍ʊt ɹˈɔŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-141.wav|ˈa‍ɪ θˈɪŋk ɪt hɐz ɐ lˈɑːt tə dˈuː wɪð ˈa‍ʊt pˌɜːsənˈælᵻɾiz klˈæʃɪŋ ˈækt‍ʃuːə‍li sˌo‍ʊ ðæt mˌa‍ɪt biː sˈʌmθɪŋ a‍ɪ dˈɪd ɹˈɔŋ hˌa‍ʊ mˈʌt‍ʃ dˈʌz ɪt d‍ʒˈɛnɚɹə‍li kˈɔst fɚɹə dᵻvˈoː‍ɹs|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-396.wav|ˌɪmɪɡɹˈe‍ɪʃən tə ðə juːnˈa‍ɪɾᵻd stˈe‍ɪts ɪz sˈʌmθɪŋ ˈa‍ɪ dˈiːl wɪð æz a‍ɪ kˈe‍ɪm hˈɪ‍ɹ fɹʌm ˈɪŋɡlənd wɛn ˈa‍ɪ wʌz θɹˈiː mˈʌnθs|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-324.wav|a‍ɪɐm fˈiːlɪŋ ɐ blˈuː wˈe‍ɪv kˈʌmɪŋ ɪn no‍ʊvˈɛmbɚ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-316.wav|wɪl juː tˈɜːn ðæt ˈɔf ɪts dɹˈa‍ɪvɪŋ mˌiː mˈæd|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-28.wav|a‍ɪ wʌz flˈa‍ɪɪŋ bˈæk fɹʌm bˈɔstən ɐ kˈʌpə‍l wˈiːks ɐɡˈo‍ʊ ænd ðɛ‍ɹwˌʌz sˌʌm ɪnsˈe‍ɪn tˈɜːbjʊləns a‍ɪ hæd nˈɛvɚ bˌɪn sˌo‍ʊ skˈɛ‍ɹd ɪn ma‍ɪ lˈa‍ɪf|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-142.wav|a‍ɪ lˈa‍ɪk ˈɔlmənd mˈɪlk æz wˈɛl ɪspˈɛʃə‍li ɪts kɹˈiːmi tˈɛkst‍ʃɚ ænd nˈʌɾi tˈe‍ɪst|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-267.wav|juː ɡɛt tə lˈa‍ɪk biː ɐ pˈɑː‍ɹt ʌv ðˈæt|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-41.wav|ˈa‍ɪ fˈiːl juː a‍ɪ dˈo‍ʊnt dɹˈa‍ɪv æt nˈa‍ɪt ˈa‍ɪ mˌe‍ɪk ma‍ɪ hˈʌbi dɹˈa‍ɪv ðə kˈɔːz ʌv ɐstˈɪɡmətˌɪzəm ɪz stˈɪl ʌŋklˈɪ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-195.wav|bˌiːɪŋ wɪð ɐ klˈo‍ʊs fɹˈɛnd ɪnðə sˈɪɾi hˌuː wʌz ɪnvˈɑːlvd æt ðə pɹˈɛzənt pˈɔ‍ɪnt ɪn tˈa‍ɪm ɪn a‍ʊtɹˈe‍ɪd‍ʒəs æktˈɪvᵻɾi|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-311.wav|a‍ɪɐm ɛksˈa‍ɪɾᵻd fɚðə nˈɛkst fˈʊtbɔːl sˈiːzən ðɪ ˈiːɡə‍lz kʊd ɹᵻpˈiːt hˌuː nˈo‍ʊz|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-86.wav|wˈɑːt‍ʃɪŋ ma‍ɪ sˈʌn tˈe‍ɪk fˈɜːst stˈɛps|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-155.wav|ænd hɪz hˈo‍ʊl fˈæmɪli wʌz ðˈɛ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-107.wav|ˈæftɚ ma‍ɪ mˈɑːm spˈɛnt ˈa‍ʊɚz mˌe‍ɪkɪŋ dˈɪnɚ fɔːɹ ˌʌs a‍ɪ dˈɪdnt ɹˈi‍əli lˈa‍ɪk ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-152.wav|a‍ɪ wˈɑːt‍ʃt ɐ fˈʊtbɔːl mˈæt‍ʃ wɪð ma‍ɪ ˈo‍ʊld fɹˈɛnd ðə pɚfˈoː‍ɹməns ʌvðə tˈiːm wʌz vˈɛɹi ɡˈʊd ænd ðə tˈiːm mˈɛmbɚz wɜː fˈʊl ʌv spˈɪɹɪt ðə mˈæt‍ʃ wʌz ˈɛksələnt ænd ˈɛvɹi tˈa‍ɪm ɐ ɡˈo‍ʊl wʌz skˈoː‍ɹd a‍ɪ fˈɛlt ɛksˈa‍ɪɾᵻd|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-110.wav|a‍ɪɐm wˈʌɹid a‍ɪ wˌo‍ʊntɐv mˈʌni fɔː‍ɹ ɹˈɛnt a‍ɪɐm skɹˈæmblɪŋ tə tɹˈa‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-319.wav|ma‍ɪ d‍ʒˈɔ‍ɪ wʌzðə d‍ʒˈɔ‍ɪ ʌv mˈiːɾɪŋ ɐɡˈɛn ma‍ɪ hˈʌsbənd kˈe‍ɪm hˈo‍ʊm ˈæftɚ hˌævɪŋ bˌɪn ɐwˈe‍ɪ fɔː‍ɹ wˈiːks a‍ɪ wʌz ɔnðə ɹˈe‍ɪlwe‍ɪ stˈe‍ɪʃən tə mˈiːt hˌɪm|0
+/home/user/voice/data/styletts/audio/train_data_audio/calm_Calm-271.wav|hˈa‍ɪ ˈʌm a‍ɪ θˈɪŋk ma‍ɪ bˈæɡɪd‍ʒ wʌz lˈɔst ænd a‍ɪ nˈiːd tʊ a‍ɪ ɡˈɛs fˈa‍ɪl ɐ klˈe‍ɪm ɔːɹ a‍ɪ dˈo‍ʊnt nˈo‍ʊ wˈʌt|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-245.wav|dᵻsˈa‍ɪdᵻd æt ðə lˈæst mˈɪnɪt nˌɑːt tə dˈuː sˈʌmθɪŋ ðæt a‍ɪ sˈɛd a‍ɪ wʊd dˈuː wɪð ɐ pˈɜːsən|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-188.wav|bˌiːɪŋ kɹˈɪɾɪsˌa‍ɪzd ba‍ɪ tˈiːt‍ʃɚɹ ɪn pˈʌblɪk|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-46.wav|ɐ fˈiːst sˈɛntɹə‍l tə ðə kɹˈɪst‍ʃən lɪtˈɜːd‍ʒɪkə‍l jˈɪ‍ɹ ɪɾ ɪz pɹɪsˈiːdᵻd ba‍ɪ ðə sˈiːzən ʌv ˈædvɛnt ɔː‍ɹ ðə nɐtˈɪvᵻɾi fˈæst ænd ɪnˈɪʃɪˌe‍ɪts ðə sˈiːzən ʌv kɹˈɪstmɐstˌa‍ɪd wˌɪt‍ʃ hɪstˈɔːɹɪkli ɪnðə wˈɛst lˈæsts twˈɛlv dˈe‍ɪz|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-124.wav|a‍ɪ hædtə ɡˌo‍ʊ tʊ ɐ nˈuː dˈɑːktɚ lˈæst wˈiːk a‍ɪ wʌzɐ lˈɪɾə‍l ʌnʃˈʊ‍ɹ ænd nˈɜːvəs|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-132.wav|a‍ɪ wʌz hˌævɪŋ ɐ tˈɛst tədˈe‍ɪ ðˈɪswˌʌn wʌz fɔː‍ɹ ma‍ɪ ɡɹˌæd‍ʒuːˈe‍ɪʃən|0
+/home/user/voice/data/styletts/audio/train_data_audio/excited_Excited-321.wav|a‍ɪɐm ɛkspˈɛktɪŋ ɐ kˈɔːl fɹʌm sˈʌmwʌn tədˈe‍ɪ ðe‍ɪ wɪl tˈɛl mˌiː ðə d‍ʒˈɛndɚɹ ʌv ma‍ɪ bˈe‍ɪbi|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-272.wav|a‍ɪ ɡɑːt tə plˈe‍ɪ ˈa‍ʊɚz ʌv vˈɪdɪo‍ʊ ɡˈe‍ɪmz ˈæftɚɹ ɐ tˈʌf wˈiːk ʌv wˈɜːk lˈæst nˈa‍ɪt ɪt wʌz sˌo‍ʊ ɹᵻfɹˈɛʃɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-19.wav|a‍ɪ wʌz wˈe‍ɪɾɪŋ fɚɹə pˈækɪd‍ʒ ænd a‍ɪ wˈɑːt‍ʃt ðə mˈe‍ɪlmən dɹˈa‍ɪv ba‍ɪ ma‍ɪ hˈa‍ʊs wɪðˌa‍ʊt dᵻlˈɪvɚɹɪŋ ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/happy_Happy-87.wav|ɡˌo‍ʊɪŋ ˌɔn ve‍ɪkˈe‍ɪʃən ðɪs wˈiːkɛnd a‍ɪ kˈænt wˈe‍ɪt|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-265.wav|d‍ʒˈʌst lˈɔst ɐ fɹˈɛnd ɐ vˈɛɹi klˈo‍ʊs tˈa‍ɪt fɹˈɛnd ðæt wʌz ˈɔːlwe‍ɪz ðˈɛ‍ɹ fɔː‍ɹ mˌiː|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-82.wav|a‍ɪ wʌz mˈæd wɛn ɪt wʌz ˈo‍ʊnli tˈuːzde‍ɪ|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-234.wav|a‍ɪ wˈɔnt juː tʊ a‍ɪ wˈɔnt juː tʊ ˈækt lˈa‍ɪk hiː ɪz kˈʌmɪŋ bˈæk bˈo‍ʊθ ʌv juː dˈo‍ʊnt θˈɪŋk a‍ɪ hˈævənt nˈo‍ʊɾɪst juː sˈɪns kɹˈɪs ɪnvˈa‍ɪɾᵻd hɜː hˈɪ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/apologetic_Apologetic-207.wav|ba‍ɪ fˈʌn a‍ɪ hæd ɐ tˈʌsə‍l wɪð ma‍ɪ sˈɪstɚ sˈʌdənli a‍ɪ ˈɑːbvi‍əsli hˈɜːt hɜːɹ ˌʌnɪntˈɛnʃənə‍li ænd ʃiː ɹˈæn ˌa‍ʊɾəv ðə ɹˈuːm kɹˈa‍ɪɪŋ|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-6.wav|a‍ɪ plˈæntᵻd ðˌɛm ðe‍ɪɚɹ ɔː‍ɹɡˈænɪk|0
+/home/user/voice/data/styletts/audio/train_data_audio/base_Base-129.wav|nˈo‍ʊ ɪts tˈuː dˈʌbə‍lz tˈuː dˈʌbə‍lz|0
+/home/user/voice/data/styletts/audio/train_data_audio/fear_Fear-104.wav|wˌɛn a‍ɪ wʌz tˈuː zˈi‍əɹo‍ʊ jˈɪ‍ɹz ˈo‍ʊld a‍ɪ fˈɛl sᵻvˈɪ‍ɹli ˈɪl ænd wʌz bˈɛdɹɪdən fɔː‍ɹ sˈɪks mˈʌnθs a‍ɪ fˈɛlt vˈɛɹi skˈɛ‍ɹd fɔː‍ɹ ma‍ɪ hˈɛlθ ænd ma‍ɪ stˈʌdiz|0
+/home/user/voice/data/styletts/audio/train_data_audio/angry_Anger-119.wav|wˌa‍ɪ dˈɪd hiː ɪnvˈa‍ɪt hɜː hˈɪ‍ɹ|0
+/home/user/voice/data/styletts/audio/train_data_audio/sad_Sad-113.wav|fˈɔːlɪŋ ɪn lˈʌv wɪð ɐ klˈo‍ʊs fɹˈɛnd|0

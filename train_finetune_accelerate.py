@@ -14,6 +14,8 @@ import shutil
 import warnings
 warnings.simplefilter('ignore')
 from torch.utils.tensorboard import SummaryWriter
+import sys
+sys.path.append('/home/user/voice/StyleTTS2')  #adding the path to the StyleTTS2 directory
 
 from meldataset import build_dataloader
 

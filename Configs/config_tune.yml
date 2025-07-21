@@ -1,25 +1,25 @@
-log_dir: "/home/user/voice/StyleTTS2/Models/telecmi"
+log_dir: "/home/user/voice/StyleTTS2/Models/indic_voices"
 save_freq: 5
 log_interval: 100
 device: "cuda"
-epochs: 15 # number of finetuning epoch (1 hour of data)
-batch_size: 4
-max_len: 500 #minimum number of frames
+epochs: 50 # number of finetuning epoch (1 hour of data)
+batch_size: 5
+max_len: 400 #minimum number of frames
 pretrained_model: "/home/user/voice/StyleTTS2/Models/epochs_2nd_00020.pth"
 second_stage_load_pretrained: true # set to true if the pre-trained model is for 2nd stage
 load_only_params: true # set to true if do not want to load epoch numbers and optimizer parameters
 
 F0_path: "/home/user/voice/StyleTTS2/Utils/JDC/bst.t7"
-ASR_config: "/home/user/voice/AuxiliaryASR/Telecmi_Checkpoint/config.yml"
-ASR_path: "/home/user/voice/AuxiliaryASR/Telecmi_Checkpoint/epoch_00010.pth"
-PLBERT_dir: '/home/user/voice/StyleTTS2/Utils/plbert-telecmi'
+ASR_config: "/home/user/voice/StyleTTS2/Utils/ASR/config.yml"
+ASR_path: "/home/user/voice/StyleTTS2/Utils/ASR/epoch_00080.pth"
+PLBERT_dir: '/home/user/voice/StyleTTS2/Utils/PLBERT'
 
 data_params:
-  train_data: "/home/user/voice/StyleTTS2/Data/telecmi_tr.txt"
-  val_data: "/home/user/voice/StyleTTS2/Data/telecmi_val.txt"
+  train_data: "/home/user/voice/StyleTTS2/Data/Train_ph.txt"
+  val_data: "/home/user/voice/StyleTTS2/Data/Val_ph.txt"
   root_path:  "" #"/local/LJSpeech-1.1/wavs"
   OOD_data: "/home/user/voice/StyleTTS2/Data/hindi_OOD.txt"
-  min_length: 100 # sample until texts with this size are obtained for OOD texts
+  min_length: 50 # sample until texts with this size are obtained for OOD texts
 
 preprocess_params:
   sr: 24000
@@ -29,7 +29,7 @@ preprocess_params:
     hop_length: 300
 
 model_params:
-  multispeaker: false
+  multispeaker: true
 
   dim_in: 64 
   hidden_dim: 512
@@ -92,8 +92,8 @@ loss_params:
     lambda_sty: 1. # style reconstruction loss
     lambda_diff: 1. # score matching loss
     
-    diff_epoch: 5 # style diffusion starting epoch  after 10 epochs only we can test the model
-    joint_epoch: 10 # joint training starting epoch
+    diff_epoch: 10 # style diffusion starting epoch  after 10 epochs only we can test the model
+    joint_epoch: 20 # joint training starting epoch
 
 optimizer_params:
   lr: 0.0001 # general learning rate
@@ -102,7 +102,7 @@ optimizer_params:
   
 slmadv_params:
   min_len: 150 # minimum length of samples
-  max_len: 500 # maximum length of samples
+  max_len: 400 # maximum length of samples
   batch_percentage: 0.5 # to prevent out of memory, only use half of the original batch size
   iter: 10 # update the discriminator every this iterations of generator update
   thresh: 5 # gradient norm above which the gradient is scaled
